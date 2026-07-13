@@ -1,0 +1,2003 @@
+customer_id,customer_name,gender,city,state,region,join_date,loyalty_tier
+C000001,Customer 1,M,Hyderabad,Telangana,South,2022-10-20,GOLD
+C000002,Customer 2,F,Chandigarh,Chandigarh,North,2023-08-24,SILVER
+C000003,Customer 3,M,Mumbai,Maharashtra,West,2024-12-10,GOLD
+C000004,Customer 4,M,Jaipur,Rajasthan,North,2023-08-17,SILVER
+C000005,Customer 5,F,Delhi,Delhi,North,2023-06-29,STANDARD
+C000006,Customer 6,O,Pune,Maharashtra,West,2024-07-26,SILVER
+C000007,Customer 7,M,Delhi,Delhi,North,2022-06-04,SILVER
+C000008,Customer 8,M,Hyderabad,Telangana,South,2023-09-22,STANDARD
+C000009,Customer 9,M,Chandigarh,Chandigarh,North,2022-08-18,GOLD
+C000010,Customer 10,M,Jaipur,Rajasthan,North,2023-07-31,GOLD
+C000011,Customer 11,F,Jaipur,Rajasthan,North,2024-10-09,STANDARD
+C000012,Customer 12,O,Chandigarh,Chandigarh,North,2022-03-09,STANDARD
+C000013,Customer 13,M,Pune,Maharashtra,West,2023-08-31,GOLD
+C000014,Customer 14,F,Mumbai,Maharashtra,West,2022-03-09,SILVER
+C000015,Customer 15,O,Bengaluru,Karnataka,South,2026-01-29,GOLD
+C000016,Customer 16,M,Pune,Maharashtra,West,2025-10-18,GOLD
+C000017,Customer 17,O,Kolkata,West Bengal,East,2024-05-07,STANDARD
+C000018,Customer 18,O,Jaipur,Rajasthan,North,2023-06-02,GOLD
+C000019,Customer 19,M,Chandigarh,Chandigarh,North,2022-04-18,GOLD
+C000020,Customer 20,F,Hyderabad,Telangana,South,2025-02-17,GOLD
+C000021,Customer 21,F,Jaipur,Rajasthan,North,2024-02-02,STANDARD
+C000022,Customer 22,O,Pune,Maharashtra,West,2023-07-24,STANDARD
+C000023,Customer 23,O,Pune,Maharashtra,West,2022-01-27,SILVER
+C000024,Customer 24,O,Kolkata,West Bengal,East,2022-11-23,SILVER
+C000025,Customer 25,O,Delhi,Delhi,North,2025-10-04,SILVER
+C000026,Customer 26,M,Mumbai,Maharashtra,West,2023-10-03,GOLD
+C000027,Customer 27,O,Mumbai,Maharashtra,West,2023-08-13,SILVER
+C000028,Customer 28,O,Chandigarh,Chandigarh,North,2025-02-06,SILVER
+C000029,Customer 29,O,Chandigarh,Chandigarh,North,2025-10-23,STANDARD
+C000030,Customer 30,F,Jaipur,Rajasthan,North,2025-08-10,SILVER
+C000031,Customer 31,O,Kolkata,West Bengal,East,2023-10-30,SILVER
+C000032,Customer 32,F,Pune,Maharashtra,West,2023-03-16,SILVER
+C000033,Customer 33,F,Delhi,Delhi,North,2023-09-11,GOLD
+C000034,Customer 34,F,Mumbai,Maharashtra,West,2025-01-26,GOLD
+C000035,Customer 35,F,Bengaluru,Karnataka,South,2023-10-28,GOLD
+C000036,Customer 36,F,Kolkata,West Bengal,East,2024-06-20,STANDARD
+C000037,Customer 37,O,Kolkata,West Bengal,East,2023-07-17,STANDARD
+C000038,Customer 38,M,Bengaluru,Karnataka,South,2023-06-12,SILVER
+C000039,Customer 39,O,Jaipur,Rajasthan,North,2025-09-21,SILVER
+C000040,Customer 40,O,Hyderabad,Telangana,South,2026-01-25,SILVER
+C000041,Customer 41,F,Pune,Maharashtra,West,2023-10-08,STANDARD
+C000042,Customer 42,F,Pune,Maharashtra,West,2025-04-28,STANDARD
+C000043,Customer 43,O,Mumbai,Maharashtra,West,2024-12-27,SILVER
+C000044,Customer 44,F,Delhi,Delhi,North,2024-02-07,GOLD
+C000045,Customer 45,M,Hyderabad,Telangana,South,2022-11-11,STANDARD
+C000046,Customer 46,M,Mumbai,Maharashtra,West,2023-04-23,SILVER
+C000047,Customer 47,F,Bengaluru,Karnataka,South,2022-10-13,SILVER
+C000048,Customer 48,F,Hyderabad,Telangana,South,2022-04-27,SILVER
+C000049,Customer 49,O,Kolkata,West Bengal,East,2023-06-23,SILVER
+C000050,Customer 50,F,Pune,Maharashtra,West,2024-07-25,GOLD
+C000051,Customer 51,M,Kolkata,West Bengal,East,2023-10-28,STANDARD
+C000052,Customer 52,O,Kolkata,West Bengal,East,2023-04-16,STANDARD
+C000053,Customer 53,O,Hyderabad,Telangana,South,2024-05-09,SILVER
+C000054,Customer 54,M,Pune,Maharashtra,West,2022-09-13,STANDARD
+C000055,Customer 55,M,Delhi,Delhi,North,2023-01-31,GOLD
+C000056,Customer 56,O,Chandigarh,Chandigarh,North,2023-10-29,SILVER
+C000057,Customer 57,F,Kolkata,West Bengal,East,2025-09-17,GOLD
+C000058,Customer 58,F,Kolkata,West Bengal,East,2025-01-10,SILVER
+C000059,Customer 59,O,Chandigarh,Chandigarh,North,2023-09-17,STANDARD
+C000060,Customer 60,O,Chandigarh,Chandigarh,North,2023-12-18,SILVER
+C000061,Customer 61,O,Bengaluru,Karnataka,South,2026-01-15,SILVER
+C000062,Customer 62,M,Delhi,Delhi,North,2025-12-11,SILVER
+C000063,Customer 63,O,Delhi,Delhi,North,2023-10-17,SILVER
+C000064,Customer 64,O,Chandigarh,Chandigarh,North,2022-04-20,SILVER
+C000065,Customer 65,F,Chandigarh,Chandigarh,North,2024-07-03,GOLD
+C000066,Customer 66,M,Delhi,Delhi,North,2022-09-13,SILVER
+C000067,Customer 67,M,Kolkata,West Bengal,East,2024-03-08,STANDARD
+C000068,Customer 68,M,Delhi,Delhi,North,2023-04-15,GOLD
+C000069,Customer 69,M,Chandigarh,Chandigarh,North,2022-07-23,GOLD
+C000070,Customer 70,F,Pune,Maharashtra,West,2025-07-17,SILVER
+C000071,Customer 71,O,Hyderabad,Telangana,South,2025-06-26,STANDARD
+C000072,Customer 72,F,Jaipur,Rajasthan,North,2022-09-24,SILVER
+C000073,Customer 73,O,Pune,Maharashtra,West,2023-02-04,STANDARD
+C000074,Customer 74,F,Kolkata,West Bengal,East,2024-05-12,SILVER
+C000075,Customer 75,O,Delhi,Delhi,North,2025-08-11,SILVER
+C000076,Customer 76,O,Kolkata,West Bengal,East,2025-11-10,STANDARD
+C000077,Customer 77,F,Chandigarh,Chandigarh,North,2023-10-01,GOLD
+C000078,Customer 78,M,Chandigarh,Chandigarh,North,2023-06-09,GOLD
+C000079,Customer 79,F,Jaipur,Rajasthan,North,2022-07-06,SILVER
+C000080,Customer 80,O,Kolkata,West Bengal,East,2025-11-16,STANDARD
+C000081,Customer 81,O,Hyderabad,Telangana,South,2024-10-13,GOLD
+C000082,Customer 82,F,Chandigarh,Chandigarh,North,2022-07-21,SILVER
+C000083,Customer 83,M,Kolkata,West Bengal,East,2023-11-12,GOLD
+C000084,Customer 84,M,Kolkata,West Bengal,East,2025-10-09,STANDARD
+C000085,Customer 85,O,Chandigarh,Chandigarh,North,2025-10-28,STANDARD
+C000086,Customer 86,F,Jaipur,Rajasthan,North,2025-07-04,STANDARD
+C000087,Customer 87,O,Jaipur,Rajasthan,North,2026-01-25,STANDARD
+C000088,Customer 88,O,Hyderabad,Telangana,South,2024-02-15,SILVER
+C000089,Customer 89,O,Chandigarh,Chandigarh,North,2023-03-27,GOLD
+C000090,Customer 90,M,Jaipur,Rajasthan,North,2024-04-04,STANDARD
+C000091,Customer 91,F,Hyderabad,Telangana,South,2023-10-17,GOLD
+C000092,Customer 92,M,Mumbai,Maharashtra,West,2023-09-13,GOLD
+C000093,Customer 93,M,Bengaluru,Karnataka,South,2022-12-09,SILVER
+C000094,Customer 94,O,Mumbai,Maharashtra,West,2024-05-25,STANDARD
+C000095,Customer 95,F,Bengaluru,Karnataka,South,2025-10-19,GOLD
+C000096,Customer 96,F,Bengaluru,Karnataka,South,2025-10-29,GOLD
+C000097,Customer 97,M,Mumbai,Maharashtra,West,2024-04-05,SILVER
+C000098,Customer 98,F,Jaipur,Rajasthan,North,2023-04-18,GOLD
+C000099,Customer 99,F,Mumbai,Maharashtra,West,2024-08-16,GOLD
+C000100,Customer 100,O,Delhi,Delhi,North,2023-04-23,SILVER
+C000101,Customer 101,O,Jaipur,Rajasthan,North,2024-07-03,STANDARD
+C000102,Customer 102,M,Delhi,Delhi,North,2022-05-21,STANDARD
+C000103,Customer 103,F,Delhi,Delhi,North,2024-10-19,GOLD
+C000104,Customer 104,O,Hyderabad,Telangana,South,2025-11-11,GOLD
+C000105,Customer 105,O,Delhi,Delhi,North,2024-04-10,GOLD
+C000106,Customer 106,M,Chandigarh,Chandigarh,North,2025-01-16,STANDARD
+C000107,Customer 107,O,Hyderabad,Telangana,South,2025-02-10,SILVER
+C000108,Customer 108,M,Delhi,Delhi,North,2024-12-23,STANDARD
+C000109,Customer 109,F,Mumbai,Maharashtra,West,2024-12-07,SILVER
+C000110,Customer 110,O,Delhi,Delhi,North,2023-02-24,STANDARD
+C000111,Customer 111,F,Bengaluru,Karnataka,South,2023-05-14,SILVER
+C000112,Customer 112,F,Chandigarh,Chandigarh,North,2022-07-09,STANDARD
+C000113,Customer 113,M,Bengaluru,Karnataka,South,2024-08-15,STANDARD
+C000114,Customer 114,M,Delhi,Delhi,North,2025-02-16,GOLD
+C000115,Customer 115,M,Bengaluru,Karnataka,South,2024-02-11,STANDARD
+C000116,Customer 116,F,Bengaluru,Karnataka,South,2022-04-18,SILVER
+C000117,Customer 117,M,Bengaluru,Karnataka,South,2022-09-20,SILVER
+C000118,Customer 118,F,Hyderabad,Telangana,South,2022-07-30,GOLD
+C000119,Customer 119,M,Jaipur,Rajasthan,North,2023-10-09,STANDARD
+C000120,Customer 120,F,Jaipur,Rajasthan,North,2024-03-23,GOLD
+C000121,Customer 121,M,Hyderabad,Telangana,South,2025-06-12,GOLD
+C000122,Customer 122,M,Hyderabad,Telangana,South,2022-08-27,SILVER
+C000123,Customer 123,F,Bengaluru,Karnataka,South,2025-04-04,SILVER
+C000124,Customer 124,M,Bengaluru,Karnataka,South,2024-10-16,SILVER
+C000125,Customer 125,M,Mumbai,Maharashtra,West,2024-04-18,GOLD
+C000126,Customer 126,O,Bengaluru,Karnataka,South,2023-02-05,STANDARD
+C000127,Customer 127,O,Chandigarh,Chandigarh,North,2025-12-15,GOLD
+C000128,Customer 128,F,Hyderabad,Telangana,South,2023-11-29,GOLD
+C000129,Customer 129,M,Kolkata,West Bengal,East,2025-11-12,SILVER
+C000130,Customer 130,O,Hyderabad,Telangana,South,2022-08-03,STANDARD
+C000131,Customer 131,O,Kolkata,West Bengal,East,2022-10-08,STANDARD
+C000132,Customer 132,O,Pune,Maharashtra,West,2024-08-10,STANDARD
+C000133,Customer 133,O,Bengaluru,Karnataka,South,2023-01-31,STANDARD
+C000134,Customer 134,M,Jaipur,Rajasthan,North,2025-01-21,SILVER
+C000135,Customer 135,F,Kolkata,West Bengal,East,2023-10-14,SILVER
+C000136,Customer 136,F,Chandigarh,Chandigarh,North,2022-03-29,GOLD
+C000137,Customer 137,M,Mumbai,Maharashtra,West,2023-01-18,GOLD
+C000138,Customer 138,O,Pune,Maharashtra,West,2023-06-25,GOLD
+C000139,Customer 139,M,Hyderabad,Telangana,South,2023-10-07,SILVER
+C000140,Customer 140,O,Mumbai,Maharashtra,West,2024-07-19,STANDARD
+C000141,Customer 141,M,Chandigarh,Chandigarh,North,2022-10-05,GOLD
+C000142,Customer 142,F,Kolkata,West Bengal,East,2022-05-10,STANDARD
+C000143,Customer 143,O,Hyderabad,Telangana,South,2023-09-30,SILVER
+C000144,Customer 144,F,Pune,Maharashtra,West,2025-10-31,SILVER
+C000145,Customer 145,F,Delhi,Delhi,North,2025-01-19,SILVER
+C000146,Customer 146,M,Hyderabad,Telangana,South,2024-03-14,STANDARD
+C000147,Customer 147,O,Hyderabad,Telangana,South,2022-02-21,GOLD
+C000148,Customer 148,O,Delhi,Delhi,North,2022-12-21,STANDARD
+C000149,Customer 149,O,Hyderabad,Telangana,South,2022-04-13,GOLD
+C000150,Customer 150,O,Kolkata,West Bengal,East,2024-09-01,GOLD
+C000151,Customer 151,O,Kolkata,West Bengal,East,2023-04-14,GOLD
+C000152,Customer 152,F,Bengaluru,Karnataka,South,2024-04-26,STANDARD
+C000153,Customer 153,M,Kolkata,West Bengal,East,2024-02-11,SILVER
+C000154,Customer 154,O,Jaipur,Rajasthan,North,2024-06-28,GOLD
+C000155,Customer 155,M,Chandigarh,Chandigarh,North,2024-08-11,SILVER
+C000156,Customer 156,F,Mumbai,Maharashtra,West,2025-08-20,STANDARD
+C000157,Customer 157,O,Bengaluru,Karnataka,South,2022-10-11,GOLD
+C000158,Customer 158,F,Mumbai,Maharashtra,West,2024-02-28,SILVER
+C000159,Customer 159,M,Bengaluru,Karnataka,South,2022-05-29,STANDARD
+C000160,Customer 160,F,Delhi,Delhi,North,2022-12-26,GOLD
+C000161,Customer 161,O,Delhi,Delhi,North,2024-01-25,SILVER
+C000162,Customer 162,F,Hyderabad,Telangana,South,2023-05-15,SILVER
+C000163,Customer 163,M,Jaipur,Rajasthan,North,2025-03-14,GOLD
+C000164,Customer 164,M,Chandigarh,Chandigarh,North,2024-02-03,STANDARD
+C000165,Customer 165,F,Mumbai,Maharashtra,West,2025-05-17,GOLD
+C000166,Customer 166,O,Hyderabad,Telangana,South,2022-04-14,STANDARD
+C000167,Customer 167,F,Delhi,Delhi,North,2024-12-09,GOLD
+C000168,Customer 168,O,Mumbai,Maharashtra,West,2022-05-20,STANDARD
+C000169,Customer 169,F,Mumbai,Maharashtra,West,2022-07-21,SILVER
+C000170,Customer 170,M,Hyderabad,Telangana,South,2022-12-23,GOLD
+C000171,Customer 171,M,Delhi,Delhi,North,2023-11-18,SILVER
+C000172,Customer 172,O,Delhi,Delhi,North,2024-06-12,SILVER
+C000173,Customer 173,O,Pune,Maharashtra,West,2025-11-12,SILVER
+C000174,Customer 174,O,Hyderabad,Telangana,South,2023-12-08,GOLD
+C000175,Customer 175,M,Mumbai,Maharashtra,West,2025-12-27,GOLD
+C000176,Customer 176,M,Mumbai,Maharashtra,West,2025-10-07,SILVER
+C000177,Customer 177,M,Delhi,Delhi,North,2024-07-06,SILVER
+C000178,Customer 178,M,Delhi,Delhi,North,2025-02-16,STANDARD
+C000179,Customer 179,F,Pune,Maharashtra,West,2024-05-22,STANDARD
+C000180,Customer 180,O,Bengaluru,Karnataka,South,2025-02-05,STANDARD
+C000181,Customer 181,O,Jaipur,Rajasthan,North,2022-01-29,SILVER
+C000182,Customer 182,F,Mumbai,Maharashtra,West,2025-09-25,GOLD
+C000183,Customer 183,M,Bengaluru,Karnataka,South,2022-12-08,GOLD
+C000184,Customer 184,F,Bengaluru,Karnataka,South,2022-03-26,STANDARD
+C000185,Customer 185,M,Kolkata,West Bengal,East,2024-11-21,SILVER
+C000186,Customer 186,M,Delhi,Delhi,North,2022-03-26,STANDARD
+C000187,Customer 187,M,Kolkata,West Bengal,East,2022-06-18,STANDARD
+C000188,Customer 188,O,Mumbai,Maharashtra,West,2025-03-24,SILVER
+C000189,Customer 189,O,Hyderabad,Telangana,South,2024-06-11,GOLD
+C000190,Customer 190,O,Pune,Maharashtra,West,2025-09-25,SILVER
+C000191,Customer 191,O,Chandigarh,Chandigarh,North,2023-11-11,STANDARD
+C000192,Customer 192,F,Delhi,Delhi,North,2023-09-10,SILVER
+C000193,Customer 193,F,Chandigarh,Chandigarh,North,2026-02-03,GOLD
+C000194,Customer 194,F,Hyderabad,Telangana,South,2025-01-28,GOLD
+C000195,Customer 195,F,Pune,Maharashtra,West,2022-12-12,SILVER
+C000196,Customer 196,F,Jaipur,Rajasthan,North,2024-04-11,STANDARD
+C000197,Customer 197,F,Delhi,Delhi,North,2023-05-10,STANDARD
+C000198,Customer 198,M,Jaipur,Rajasthan,North,2025-06-23,STANDARD
+C000199,Customer 199,F,Mumbai,Maharashtra,West,2022-01-02,SILVER
+C000200,Customer 200,F,Jaipur,Rajasthan,North,2024-02-27,GOLD
+C000201,Customer 201,M,Kolkata,West Bengal,East,2023-07-30,SILVER
+C000202,Customer 202,M,Mumbai,Maharashtra,West,2023-05-26,GOLD
+C000203,Customer 203,O,Pune,Maharashtra,West,2022-11-28,GOLD
+C000204,Customer 204,M,Mumbai,Maharashtra,West,2023-03-30,GOLD
+C000205,Customer 205,O,Bengaluru,Karnataka,South,2022-08-27,SILVER
+C000206,Customer 206,O,Delhi,Delhi,North,2023-04-13,STANDARD
+C000207,Customer 207,M,Hyderabad,Telangana,South,2022-04-03,GOLD
+C000208,Customer 208,F,Jaipur,Rajasthan,North,2025-09-11,SILVER
+C000209,Customer 209,O,Delhi,Delhi,North,2023-10-10,SILVER
+C000210,Customer 210,M,Mumbai,Maharashtra,West,2023-07-26,SILVER
+C000211,Customer 211,F,Bengaluru,Karnataka,South,2026-01-18,SILVER
+C000212,Customer 212,M,Mumbai,Maharashtra,West,2025-03-28,STANDARD
+C000213,Customer 213,M,Delhi,Delhi,North,2025-07-10,STANDARD
+C000214,Customer 214,F,Jaipur,Rajasthan,North,2024-03-25,SILVER
+C000215,Customer 215,M,Delhi,Delhi,North,2022-12-17,GOLD
+C000216,Customer 216,M,Hyderabad,Telangana,South,2022-09-19,SILVER
+C000217,Customer 217,M,Kolkata,West Bengal,East,2025-11-28,STANDARD
+C000218,Customer 218,F,Bengaluru,Karnataka,South,2022-07-30,GOLD
+C000219,Customer 219,O,Pune,Maharashtra,West,2025-01-04,STANDARD
+C000220,Customer 220,M,Kolkata,West Bengal,East,2024-10-22,GOLD
+C000221,Customer 221,F,Kolkata,West Bengal,East,2025-08-04,GOLD
+C000222,Customer 222,O,Bengaluru,Karnataka,South,2023-11-05,GOLD
+C000223,Customer 223,F,Chandigarh,Chandigarh,North,2023-11-03,STANDARD
+C000224,Customer 224,F,Bengaluru,Karnataka,South,2023-05-13,SILVER
+C000225,Customer 225,M,Jaipur,Rajasthan,North,2022-06-05,GOLD
+C000226,Customer 226,M,Jaipur,Rajasthan,North,2023-04-03,GOLD
+C000227,Customer 227,O,Chandigarh,Chandigarh,North,2022-04-26,STANDARD
+C000228,Customer 228,M,Mumbai,Maharashtra,West,2024-06-26,SILVER
+C000229,Customer 229,O,Jaipur,Rajasthan,North,2025-12-21,SILVER
+C000230,Customer 230,M,Mumbai,Maharashtra,West,2022-10-20,GOLD
+C000231,Customer 231,O,Hyderabad,Telangana,South,2025-12-19,GOLD
+C000232,Customer 232,F,Pune,Maharashtra,West,2023-10-29,GOLD
+C000233,Customer 233,O,Jaipur,Rajasthan,North,2023-06-09,GOLD
+C000234,Customer 234,M,Bengaluru,Karnataka,South,2022-10-19,STANDARD
+C000235,Customer 235,M,Pune,Maharashtra,West,2024-11-29,STANDARD
+C000236,Customer 236,F,Hyderabad,Telangana,South,2023-10-09,STANDARD
+C000237,Customer 237,F,Mumbai,Maharashtra,West,2022-01-17,STANDARD
+C000238,Customer 238,M,Mumbai,Maharashtra,West,2026-01-26,STANDARD
+C000239,Customer 239,M,Delhi,Delhi,North,2025-06-27,STANDARD
+C000240,Customer 240,O,Mumbai,Maharashtra,West,2024-01-11,STANDARD
+C000241,Customer 241,M,Pune,Maharashtra,West,2023-09-17,GOLD
+C000242,Customer 242,O,Bengaluru,Karnataka,South,2025-05-08,GOLD
+C000243,Customer 243,F,Jaipur,Rajasthan,North,2023-07-27,SILVER
+C000244,Customer 244,F,Mumbai,Maharashtra,West,2025-12-28,STANDARD
+C000245,Customer 245,M,Mumbai,Maharashtra,West,2023-06-18,SILVER
+C000246,Customer 246,F,Chandigarh,Chandigarh,North,2025-03-18,SILVER
+C000247,Customer 247,F,Pune,Maharashtra,West,2023-01-23,STANDARD
+C000248,Customer 248,O,Delhi,Delhi,North,2022-10-07,GOLD
+C000249,Customer 249,O,Mumbai,Maharashtra,West,2025-09-15,STANDARD
+C000250,Customer 250,M,Hyderabad,Telangana,South,2022-03-11,GOLD
+C000251,Customer 251,F,Mumbai,Maharashtra,West,2023-01-07,STANDARD
+C000252,Customer 252,F,Bengaluru,Karnataka,South,2025-03-26,STANDARD
+C000253,Customer 253,O,Mumbai,Maharashtra,West,2024-12-04,SILVER
+C000254,Customer 254,M,Kolkata,West Bengal,East,2025-08-30,STANDARD
+C000255,Customer 255,F,Pune,Maharashtra,West,2023-11-18,STANDARD
+C000256,Customer 256,M,Hyderabad,Telangana,South,2024-10-31,SILVER
+C000257,Customer 257,F,Chandigarh,Chandigarh,North,2024-02-23,GOLD
+C000258,Customer 258,M,Pune,Maharashtra,West,2025-09-30,GOLD
+C000259,Customer 259,F,Bengaluru,Karnataka,South,2023-10-25,GOLD
+C000260,Customer 260,M,Hyderabad,Telangana,South,2022-06-12,STANDARD
+C000261,Customer 261,F,Hyderabad,Telangana,South,2025-01-21,STANDARD
+C000262,Customer 262,F,Hyderabad,Telangana,South,2022-05-26,SILVER
+C000263,Customer 263,F,Mumbai,Maharashtra,West,2026-02-05,SILVER
+C000264,Customer 264,O,Chandigarh,Chandigarh,North,2025-07-09,SILVER
+C000265,Customer 265,F,Delhi,Delhi,North,2024-04-12,GOLD
+C000266,Customer 266,F,Pune,Maharashtra,West,2025-07-23,GOLD
+C000267,Customer 267,M,Bengaluru,Karnataka,South,2024-03-28,GOLD
+C000268,Customer 268,F,Bengaluru,Karnataka,South,2023-04-14,GOLD
+C000269,Customer 269,O,Pune,Maharashtra,West,2024-06-27,GOLD
+C000270,Customer 270,M,Delhi,Delhi,North,2024-03-27,SILVER
+C000271,Customer 271,F,Jaipur,Rajasthan,North,2024-03-08,STANDARD
+C000272,Customer 272,O,Bengaluru,Karnataka,South,2023-11-24,STANDARD
+C000273,Customer 273,F,Delhi,Delhi,North,2025-09-30,SILVER
+C000274,Customer 274,O,Kolkata,West Bengal,East,2024-04-24,SILVER
+C000275,Customer 275,M,Jaipur,Rajasthan,North,2023-06-16,GOLD
+C000276,Customer 276,F,Hyderabad,Telangana,South,2023-03-19,SILVER
+C000277,Customer 277,O,Bengaluru,Karnataka,South,2026-01-28,SILVER
+C000278,Customer 278,M,Delhi,Delhi,North,2022-11-21,SILVER
+C000279,Customer 279,M,Hyderabad,Telangana,South,2022-10-03,SILVER
+C000280,Customer 280,O,Delhi,Delhi,North,2022-07-09,GOLD
+C000281,Customer 281,O,Delhi,Delhi,North,2025-09-13,GOLD
+C000282,Customer 282,F,Kolkata,West Bengal,East,2022-08-13,SILVER
+C000283,Customer 283,M,Bengaluru,Karnataka,South,2025-12-13,SILVER
+C000284,Customer 284,O,Chandigarh,Chandigarh,North,2022-12-18,STANDARD
+C000285,Customer 285,O,Delhi,Delhi,North,2023-08-19,STANDARD
+C000286,Customer 286,F,Delhi,Delhi,North,2022-10-10,STANDARD
+C000287,Customer 287,O,Hyderabad,Telangana,South,2023-11-08,STANDARD
+C000288,Customer 288,M,Delhi,Delhi,North,2024-08-09,SILVER
+C000289,Customer 289,O,Bengaluru,Karnataka,South,2025-09-25,GOLD
+C000290,Customer 290,M,Delhi,Delhi,North,2022-04-02,STANDARD
+C000291,Customer 291,M,Mumbai,Maharashtra,West,2022-07-01,GOLD
+C000292,Customer 292,F,Hyderabad,Telangana,South,2024-01-02,STANDARD
+C000293,Customer 293,F,Delhi,Delhi,North,2025-03-12,GOLD
+C000294,Customer 294,O,Kolkata,West Bengal,East,2025-07-12,STANDARD
+C000295,Customer 295,M,Delhi,Delhi,North,2023-08-25,STANDARD
+C000296,Customer 296,F,Delhi,Delhi,North,2024-01-04,GOLD
+C000297,Customer 297,F,Jaipur,Rajasthan,North,2024-06-20,GOLD
+C000298,Customer 298,O,Mumbai,Maharashtra,West,2023-01-04,SILVER
+C000299,Customer 299,M,Kolkata,West Bengal,East,2023-08-16,STANDARD
+C000300,Customer 300,F,Kolkata,West Bengal,East,2024-10-03,STANDARD
+C000301,Customer 301,O,Delhi,Delhi,North,2023-03-12,STANDARD
+C000302,Customer 302,F,Kolkata,West Bengal,East,2022-01-30,GOLD
+C000303,Customer 303,F,Kolkata,West Bengal,East,2022-06-14,SILVER
+C000304,Customer 304,F,Delhi,Delhi,North,2024-05-24,STANDARD
+C000305,Customer 305,M,Jaipur,Rajasthan,North,2024-07-27,GOLD
+C000306,Customer 306,O,Bengaluru,Karnataka,South,2023-03-20,SILVER
+C000307,Customer 307,M,Mumbai,Maharashtra,West,2024-11-27,GOLD
+C000308,Customer 308,M,Mumbai,Maharashtra,West,2024-06-24,SILVER
+C000309,Customer 309,M,Jaipur,Rajasthan,North,2024-11-04,SILVER
+C000310,Customer 310,M,Pune,Maharashtra,West,2025-12-17,STANDARD
+C000311,Customer 311,O,Hyderabad,Telangana,South,2024-10-12,GOLD
+C000312,Customer 312,O,Kolkata,West Bengal,East,2022-05-19,STANDARD
+C000313,Customer 313,F,Bengaluru,Karnataka,South,2023-06-16,GOLD
+C000314,Customer 314,F,Delhi,Delhi,North,2023-08-26,STANDARD
+C000315,Customer 315,M,Delhi,Delhi,North,2025-12-07,GOLD
+C000316,Customer 316,M,Delhi,Delhi,North,2024-06-24,GOLD
+C000317,Customer 317,O,Kolkata,West Bengal,East,2022-01-14,SILVER
+C000318,Customer 318,M,Pune,Maharashtra,West,2024-06-04,GOLD
+C000319,Customer 319,M,Kolkata,West Bengal,East,2025-03-03,SILVER
+C000320,Customer 320,M,Kolkata,West Bengal,East,2025-09-18,SILVER
+C000321,Customer 321,F,Chandigarh,Chandigarh,North,2023-11-17,STANDARD
+C000322,Customer 322,O,Delhi,Delhi,North,2024-12-12,STANDARD
+C000323,Customer 323,F,Hyderabad,Telangana,South,2024-09-08,SILVER
+C000324,Customer 324,F,Delhi,Delhi,North,2024-02-21,STANDARD
+C000325,Customer 325,O,Kolkata,West Bengal,East,2023-12-16,GOLD
+C000326,Customer 326,O,Jaipur,Rajasthan,North,2026-01-26,SILVER
+C000327,Customer 327,O,Hyderabad,Telangana,South,2023-10-26,STANDARD
+C000328,Customer 328,F,Delhi,Delhi,North,2024-09-10,STANDARD
+C000329,Customer 329,O,Jaipur,Rajasthan,North,2023-05-18,SILVER
+C000330,Customer 330,M,Chandigarh,Chandigarh,North,2023-12-04,GOLD
+C000331,Customer 331,O,Jaipur,Rajasthan,North,2025-06-04,GOLD
+C000332,Customer 332,F,Delhi,Delhi,North,2022-02-27,STANDARD
+C000333,Customer 333,F,Pune,Maharashtra,West,2024-05-24,STANDARD
+C000334,Customer 334,O,Kolkata,West Bengal,East,2024-09-26,GOLD
+C000335,Customer 335,O,Chandigarh,Chandigarh,North,2023-07-22,GOLD
+C000336,Customer 336,M,Bengaluru,Karnataka,South,2024-06-03,STANDARD
+C000337,Customer 337,F,Jaipur,Rajasthan,North,2023-11-20,STANDARD
+C000338,Customer 338,O,Hyderabad,Telangana,South,2025-08-06,STANDARD
+C000339,Customer 339,M,Hyderabad,Telangana,South,2022-01-23,STANDARD
+C000340,Customer 340,O,Pune,Maharashtra,West,2026-01-17,SILVER
+C000341,Customer 341,F,Bengaluru,Karnataka,South,2025-11-12,SILVER
+C000342,Customer 342,M,Mumbai,Maharashtra,West,2023-11-15,GOLD
+C000343,Customer 343,O,Hyderabad,Telangana,South,2024-03-28,SILVER
+C000344,Customer 344,M,Mumbai,Maharashtra,West,2022-09-23,STANDARD
+C000345,Customer 345,M,Jaipur,Rajasthan,North,2022-01-30,GOLD
+C000346,Customer 346,O,Pune,Maharashtra,West,2023-08-04,SILVER
+C000347,Customer 347,F,Bengaluru,Karnataka,South,2023-10-29,SILVER
+C000348,Customer 348,M,Kolkata,West Bengal,East,2022-11-07,STANDARD
+C000349,Customer 349,O,Jaipur,Rajasthan,North,2024-05-09,GOLD
+C000350,Customer 350,M,Mumbai,Maharashtra,West,2023-09-18,GOLD
+C000351,Customer 351,F,Chandigarh,Chandigarh,North,2024-02-10,STANDARD
+C000352,Customer 352,F,Jaipur,Rajasthan,North,2024-10-16,STANDARD
+C000353,Customer 353,O,Hyderabad,Telangana,South,2022-02-23,SILVER
+C000354,Customer 354,F,Chandigarh,Chandigarh,North,2023-12-18,GOLD
+C000355,Customer 355,F,Hyderabad,Telangana,South,2025-02-06,GOLD
+C000356,Customer 356,F,Bengaluru,Karnataka,South,2025-04-28,STANDARD
+C000357,Customer 357,F,Hyderabad,Telangana,South,2025-10-01,GOLD
+C000358,Customer 358,F,Mumbai,Maharashtra,West,2023-09-08,SILVER
+C000359,Customer 359,M,Hyderabad,Telangana,South,2022-02-22,GOLD
+C000360,Customer 360,M,Mumbai,Maharashtra,West,2024-10-10,STANDARD
+C000361,Customer 361,O,Kolkata,West Bengal,East,2023-01-14,STANDARD
+C000362,Customer 362,F,Chandigarh,Chandigarh,North,2023-12-25,GOLD
+C000363,Customer 363,M,Bengaluru,Karnataka,South,2023-11-03,SILVER
+C000364,Customer 364,O,Jaipur,Rajasthan,North,2022-11-08,GOLD
+C000365,Customer 365,O,Delhi,Delhi,North,2024-07-15,GOLD
+C000366,Customer 366,O,Hyderabad,Telangana,South,2024-06-19,STANDARD
+C000367,Customer 367,O,Bengaluru,Karnataka,South,2023-01-22,SILVER
+C000368,Customer 368,O,Chandigarh,Chandigarh,North,2025-12-27,SILVER
+C000369,Customer 369,O,Chandigarh,Chandigarh,North,2024-10-22,STANDARD
+C000370,Customer 370,F,Mumbai,Maharashtra,West,2022-08-11,GOLD
+C000371,Customer 371,O,Hyderabad,Telangana,South,2025-05-14,GOLD
+C000372,Customer 372,F,Jaipur,Rajasthan,North,2023-07-09,STANDARD
+C000373,Customer 373,O,Mumbai,Maharashtra,West,2024-11-23,GOLD
+C000374,Customer 374,F,Kolkata,West Bengal,East,2022-08-15,GOLD
+C000375,Customer 375,F,Delhi,Delhi,North,2023-08-08,GOLD
+C000376,Customer 376,F,Bengaluru,Karnataka,South,2024-10-09,GOLD
+C000377,Customer 377,F,Chandigarh,Chandigarh,North,2023-01-30,SILVER
+C000378,Customer 378,F,Hyderabad,Telangana,South,2022-12-29,STANDARD
+C000379,Customer 379,M,Mumbai,Maharashtra,West,2024-10-13,SILVER
+C000380,Customer 380,M,Chandigarh,Chandigarh,North,2023-03-13,SILVER
+C000381,Customer 381,F,Bengaluru,Karnataka,South,2024-05-09,STANDARD
+C000382,Customer 382,F,Mumbai,Maharashtra,West,2025-03-14,GOLD
+C000383,Customer 383,O,Jaipur,Rajasthan,North,2023-01-24,GOLD
+C000384,Customer 384,F,Mumbai,Maharashtra,West,2023-08-06,STANDARD
+C000385,Customer 385,F,Chandigarh,Chandigarh,North,2023-12-31,STANDARD
+C000386,Customer 386,O,Jaipur,Rajasthan,North,2024-01-19,SILVER
+C000387,Customer 387,O,Chandigarh,Chandigarh,North,2024-03-11,STANDARD
+C000388,Customer 388,O,Delhi,Delhi,North,2023-02-18,GOLD
+C000389,Customer 389,O,Pune,Maharashtra,West,2025-06-23,GOLD
+C000390,Customer 390,F,Jaipur,Rajasthan,North,2025-06-16,STANDARD
+C000391,Customer 391,O,Jaipur,Rajasthan,North,2022-03-11,GOLD
+C000392,Customer 392,F,Jaipur,Rajasthan,North,2023-08-01,STANDARD
+C000393,Customer 393,F,Chandigarh,Chandigarh,North,2025-01-17,SILVER
+C000394,Customer 394,O,Chandigarh,Chandigarh,North,2022-12-17,SILVER
+C000395,Customer 395,M,Chandigarh,Chandigarh,North,2023-10-28,GOLD
+C000396,Customer 396,O,Bengaluru,Karnataka,South,2023-10-13,SILVER
+C000397,Customer 397,O,Kolkata,West Bengal,East,2025-04-10,GOLD
+C000398,Customer 398,O,Bengaluru,Karnataka,South,2022-01-20,GOLD
+C000399,Customer 399,F,Mumbai,Maharashtra,West,2025-11-28,GOLD
+C000400,Customer 400,M,Chandigarh,Chandigarh,North,2022-05-27,STANDARD
+C000401,Customer 401,F,Pune,Maharashtra,West,2024-12-28,SILVER
+C000402,Customer 402,O,Pune,Maharashtra,West,2022-03-16,GOLD
+C000403,Customer 403,O,Chandigarh,Chandigarh,North,2023-11-14,STANDARD
+C000404,Customer 404,M,Hyderabad,Telangana,South,2025-10-13,STANDARD
+C000405,Customer 405,F,Bengaluru,Karnataka,South,2023-05-07,GOLD
+C000406,Customer 406,F,Pune,Maharashtra,West,2023-12-01,STANDARD
+C000407,Customer 407,M,Chandigarh,Chandigarh,North,2025-02-17,STANDARD
+C000408,Customer 408,M,Delhi,Delhi,North,2025-07-22,SILVER
+C000409,Customer 409,M,Hyderabad,Telangana,South,2026-01-04,GOLD
+C000410,Customer 410,O,Hyderabad,Telangana,South,2023-11-05,STANDARD
+C000411,Customer 411,O,Mumbai,Maharashtra,West,2022-12-06,SILVER
+C000412,Customer 412,M,Kolkata,West Bengal,East,2022-10-24,STANDARD
+C000413,Customer 413,O,Bengaluru,Karnataka,South,2022-05-25,GOLD
+C000414,Customer 414,O,Chandigarh,Chandigarh,North,2025-05-16,SILVER
+C000415,Customer 415,F,Mumbai,Maharashtra,West,2024-03-19,GOLD
+C000416,Customer 416,M,Jaipur,Rajasthan,North,2024-10-31,GOLD
+C000417,Customer 417,O,Bengaluru,Karnataka,South,2022-05-04,STANDARD
+C000418,Customer 418,F,Hyderabad,Telangana,South,2025-12-04,GOLD
+C000419,Customer 419,O,Pune,Maharashtra,West,2022-12-09,STANDARD
+C000420,Customer 420,F,Pune,Maharashtra,West,2024-11-29,STANDARD
+C000421,Customer 421,M,Jaipur,Rajasthan,North,2022-02-22,STANDARD
+C000422,Customer 422,M,Mumbai,Maharashtra,West,2023-06-12,SILVER
+C000423,Customer 423,F,Pune,Maharashtra,West,2026-01-20,GOLD
+C000424,Customer 424,O,Jaipur,Rajasthan,North,2024-11-22,STANDARD
+C000425,Customer 425,M,Bengaluru,Karnataka,South,2023-08-08,SILVER
+C000426,Customer 426,O,Jaipur,Rajasthan,North,2022-08-01,GOLD
+C000427,Customer 427,O,Mumbai,Maharashtra,West,2024-11-12,GOLD
+C000428,Customer 428,O,Pune,Maharashtra,West,2025-10-10,SILVER
+C000429,Customer 429,M,Jaipur,Rajasthan,North,2023-07-28,SILVER
+C000430,Customer 430,M,Kolkata,West Bengal,East,2025-07-22,GOLD
+C000431,Customer 431,F,Kolkata,West Bengal,East,2025-02-18,GOLD
+C000432,Customer 432,M,Delhi,Delhi,North,2022-11-10,GOLD
+C000433,Customer 433,F,Jaipur,Rajasthan,North,2025-08-10,STANDARD
+C000434,Customer 434,M,Delhi,Delhi,North,2023-06-30,SILVER
+C000435,Customer 435,O,Kolkata,West Bengal,East,2022-02-08,GOLD
+C000436,Customer 436,O,Bengaluru,Karnataka,South,2024-02-22,GOLD
+C000437,Customer 437,F,Chandigarh,Chandigarh,North,2024-10-22,SILVER
+C000438,Customer 438,F,Pune,Maharashtra,West,2023-06-05,GOLD
+C000439,Customer 439,O,Pune,Maharashtra,West,2022-04-11,SILVER
+C000440,Customer 440,M,Bengaluru,Karnataka,South,2025-07-29,GOLD
+C000441,Customer 441,F,Kolkata,West Bengal,East,2024-04-02,GOLD
+C000442,Customer 442,M,Delhi,Delhi,North,2025-12-03,GOLD
+C000443,Customer 443,M,Mumbai,Maharashtra,West,2024-08-26,STANDARD
+C000444,Customer 444,F,Jaipur,Rajasthan,North,2025-05-30,STANDARD
+C000445,Customer 445,F,Pune,Maharashtra,West,2024-11-23,STANDARD
+C000446,Customer 446,O,Kolkata,West Bengal,East,2024-10-12,STANDARD
+C000447,Customer 447,M,Bengaluru,Karnataka,South,2024-11-13,GOLD
+C000448,Customer 448,M,Hyderabad,Telangana,South,2022-08-16,STANDARD
+C000449,Customer 449,O,Bengaluru,Karnataka,South,2023-03-21,SILVER
+C000450,Customer 450,O,Kolkata,West Bengal,East,2023-01-21,GOLD
+C000451,Customer 451,M,Pune,Maharashtra,West,2024-08-17,STANDARD
+C000452,Customer 452,F,Mumbai,Maharashtra,West,2024-03-30,SILVER
+C000453,Customer 453,M,Jaipur,Rajasthan,North,2024-10-17,SILVER
+C000454,Customer 454,O,Chandigarh,Chandigarh,North,2025-07-07,SILVER
+C000455,Customer 455,F,Pune,Maharashtra,West,2022-10-14,SILVER
+C000456,Customer 456,F,Chandigarh,Chandigarh,North,2023-10-14,STANDARD
+C000457,Customer 457,O,Pune,Maharashtra,West,2024-12-30,SILVER
+C000458,Customer 458,F,Delhi,Delhi,North,2023-09-28,GOLD
+C000459,Customer 459,F,Jaipur,Rajasthan,North,2023-05-05,GOLD
+C000460,Customer 460,O,Jaipur,Rajasthan,North,2022-11-02,SILVER
+C000461,Customer 461,O,Chandigarh,Chandigarh,North,2023-10-30,GOLD
+C000462,Customer 462,F,Kolkata,West Bengal,East,2024-12-31,GOLD
+C000463,Customer 463,M,Mumbai,Maharashtra,West,2022-01-07,STANDARD
+C000464,Customer 464,O,Jaipur,Rajasthan,North,2022-09-30,STANDARD
+C000465,Customer 465,F,Jaipur,Rajasthan,North,2026-01-24,GOLD
+C000466,Customer 466,M,Mumbai,Maharashtra,West,2022-03-11,STANDARD
+C000467,Customer 467,M,Bengaluru,Karnataka,South,2022-11-13,SILVER
+C000468,Customer 468,M,Delhi,Delhi,North,2022-01-01,GOLD
+C000469,Customer 469,M,Chandigarh,Chandigarh,North,2023-08-03,STANDARD
+C000470,Customer 470,O,Mumbai,Maharashtra,West,2022-09-17,SILVER
+C000471,Customer 471,M,Bengaluru,Karnataka,South,2024-01-20,STANDARD
+C000472,Customer 472,F,Pune,Maharashtra,West,2022-07-08,STANDARD
+C000473,Customer 473,M,Hyderabad,Telangana,South,2024-03-18,GOLD
+C000474,Customer 474,O,Bengaluru,Karnataka,South,2023-12-31,GOLD
+C000475,Customer 475,F,Chandigarh,Chandigarh,North,2023-09-29,SILVER
+C000476,Customer 476,M,Kolkata,West Bengal,East,2023-08-24,STANDARD
+C000477,Customer 477,O,Kolkata,West Bengal,East,2023-06-19,GOLD
+C000478,Customer 478,F,Hyderabad,Telangana,South,2023-09-02,STANDARD
+C000479,Customer 479,F,Kolkata,West Bengal,East,2022-05-27,GOLD
+C000480,Customer 480,O,Delhi,Delhi,North,2024-06-29,GOLD
+C000481,Customer 481,F,Hyderabad,Telangana,South,2023-09-30,SILVER
+C000482,Customer 482,O,Mumbai,Maharashtra,West,2022-11-05,STANDARD
+C000483,Customer 483,F,Mumbai,Maharashtra,West,2025-09-15,STANDARD
+C000484,Customer 484,O,Jaipur,Rajasthan,North,2022-11-13,SILVER
+C000485,Customer 485,M,Bengaluru,Karnataka,South,2022-04-22,STANDARD
+C000486,Customer 486,M,Jaipur,Rajasthan,North,2023-09-30,STANDARD
+C000487,Customer 487,M,Jaipur,Rajasthan,North,2026-02-07,SILVER
+C000488,Customer 488,M,Hyderabad,Telangana,South,2024-01-20,SILVER
+C000489,Customer 489,O,Pune,Maharashtra,West,2025-11-13,STANDARD
+C000490,Customer 490,O,Kolkata,West Bengal,East,2022-01-08,SILVER
+C000491,Customer 491,F,Delhi,Delhi,North,2024-02-28,STANDARD
+C000492,Customer 492,F,Mumbai,Maharashtra,West,2025-09-03,SILVER
+C000493,Customer 493,M,Mumbai,Maharashtra,West,2023-01-10,GOLD
+C000494,Customer 494,M,Jaipur,Rajasthan,North,2023-04-02,GOLD
+C000495,Customer 495,M,Delhi,Delhi,North,2022-03-08,SILVER
+C000496,Customer 496,M,Pune,Maharashtra,West,2026-02-08,GOLD
+C000497,Customer 497,O,Mumbai,Maharashtra,West,2025-10-09,STANDARD
+C000498,Customer 498,O,Pune,Maharashtra,West,2024-03-10,STANDARD
+C000499,Customer 499,F,Kolkata,West Bengal,East,2022-08-05,STANDARD
+C000500,Customer 500,M,Jaipur,Rajasthan,North,2022-08-10,STANDARD
+C000501,Customer 501,M,Mumbai,Maharashtra,West,2022-10-04,GOLD
+C000502,Customer 502,F,Bengaluru,Karnataka,South,2024-08-01,SILVER
+C000503,Customer 503,M,Delhi,Delhi,North,2025-10-27,SILVER
+C000504,Customer 504,O,Hyderabad,Telangana,South,2025-11-26,GOLD
+C000505,Customer 505,F,Pune,Maharashtra,West,2023-03-30,GOLD
+C000506,Customer 506,O,Delhi,Delhi,North,2024-04-10,GOLD
+C000507,Customer 507,O,Delhi,Delhi,North,2022-06-03,SILVER
+C000508,Customer 508,O,Delhi,Delhi,North,2024-05-05,GOLD
+C000509,Customer 509,O,Hyderabad,Telangana,South,2022-05-17,STANDARD
+C000510,Customer 510,F,Delhi,Delhi,North,2024-06-02,STANDARD
+C000511,Customer 511,F,Hyderabad,Telangana,South,2024-04-09,SILVER
+C000512,Customer 512,O,Mumbai,Maharashtra,West,2024-10-25,STANDARD
+C000513,Customer 513,F,Hyderabad,Telangana,South,2022-02-17,SILVER
+C000514,Customer 514,F,Bengaluru,Karnataka,South,2025-11-20,SILVER
+C000515,Customer 515,F,Jaipur,Rajasthan,North,2026-01-12,GOLD
+C000516,Customer 516,O,Chandigarh,Chandigarh,North,2022-07-22,GOLD
+C000517,Customer 517,M,Pune,Maharashtra,West,2022-06-28,SILVER
+C000518,Customer 518,M,Pune,Maharashtra,West,2023-02-12,SILVER
+C000519,Customer 519,O,Delhi,Delhi,North,2022-04-16,GOLD
+C000520,Customer 520,O,Kolkata,West Bengal,East,2022-03-16,STANDARD
+C000521,Customer 521,O,Pune,Maharashtra,West,2023-07-30,SILVER
+C000522,Customer 522,M,Chandigarh,Chandigarh,North,2025-03-22,GOLD
+C000523,Customer 523,F,Jaipur,Rajasthan,North,2025-09-27,GOLD
+C000524,Customer 524,M,Pune,Maharashtra,West,2024-08-06,STANDARD
+C000525,Customer 525,M,Bengaluru,Karnataka,South,2024-08-26,STANDARD
+C000526,Customer 526,F,Chandigarh,Chandigarh,North,2023-12-28,SILVER
+C000527,Customer 527,F,Kolkata,West Bengal,East,2025-11-22,STANDARD
+C000528,Customer 528,F,Pune,Maharashtra,West,2024-05-20,SILVER
+C000529,Customer 529,F,Jaipur,Rajasthan,North,2025-01-20,STANDARD
+C000530,Customer 530,O,Kolkata,West Bengal,East,2023-12-02,SILVER
+C000531,Customer 531,M,Pune,Maharashtra,West,2022-11-16,STANDARD
+C000532,Customer 532,O,Delhi,Delhi,North,2023-07-27,SILVER
+C000533,Customer 533,F,Chandigarh,Chandigarh,North,2022-09-29,STANDARD
+C000534,Customer 534,F,Pune,Maharashtra,West,2024-09-27,GOLD
+C000535,Customer 535,O,Kolkata,West Bengal,East,2022-04-18,GOLD
+C000536,Customer 536,M,Mumbai,Maharashtra,West,2025-09-04,SILVER
+C000537,Customer 537,M,Kolkata,West Bengal,East,2023-10-20,GOLD
+C000538,Customer 538,F,Kolkata,West Bengal,East,2023-12-27,SILVER
+C000539,Customer 539,O,Jaipur,Rajasthan,North,2022-01-22,GOLD
+C000540,Customer 540,M,Mumbai,Maharashtra,West,2022-09-21,STANDARD
+C000541,Customer 541,M,Kolkata,West Bengal,East,2024-03-01,GOLD
+C000542,Customer 542,O,Jaipur,Rajasthan,North,2024-05-11,STANDARD
+C000543,Customer 543,O,Mumbai,Maharashtra,West,2025-08-03,GOLD
+C000544,Customer 544,M,Delhi,Delhi,North,2026-01-13,GOLD
+C000545,Customer 545,M,Hyderabad,Telangana,South,2023-10-29,SILVER
+C000546,Customer 546,O,Kolkata,West Bengal,East,2025-02-27,GOLD
+C000547,Customer 547,M,Jaipur,Rajasthan,North,2024-06-06,SILVER
+C000548,Customer 548,M,Bengaluru,Karnataka,South,2025-07-12,STANDARD
+C000549,Customer 549,M,Pune,Maharashtra,West,2025-02-05,GOLD
+C000550,Customer 550,M,Delhi,Delhi,North,2022-09-04,SILVER
+C000551,Customer 551,O,Delhi,Delhi,North,2023-11-10,STANDARD
+C000552,Customer 552,F,Bengaluru,Karnataka,South,2025-04-04,STANDARD
+C000553,Customer 553,O,Jaipur,Rajasthan,North,2025-08-17,STANDARD
+C000554,Customer 554,O,Jaipur,Rajasthan,North,2025-08-01,SILVER
+C000555,Customer 555,F,Chandigarh,Chandigarh,North,2023-07-04,SILVER
+C000556,Customer 556,O,Mumbai,Maharashtra,West,2022-12-09,GOLD
+C000557,Customer 557,F,Pune,Maharashtra,West,2024-02-10,SILVER
+C000558,Customer 558,M,Mumbai,Maharashtra,West,2026-01-05,STANDARD
+C000559,Customer 559,F,Hyderabad,Telangana,South,2022-07-03,STANDARD
+C000560,Customer 560,O,Mumbai,Maharashtra,West,2024-03-25,GOLD
+C000561,Customer 561,F,Jaipur,Rajasthan,North,2026-02-01,GOLD
+C000562,Customer 562,M,Delhi,Delhi,North,2024-09-17,SILVER
+C000563,Customer 563,F,Chandigarh,Chandigarh,North,2026-02-08,STANDARD
+C000564,Customer 564,F,Kolkata,West Bengal,East,2024-12-28,SILVER
+C000565,Customer 565,M,Chandigarh,Chandigarh,North,2022-10-06,GOLD
+C000566,Customer 566,F,Pune,Maharashtra,West,2022-12-30,GOLD
+C000567,Customer 567,M,Pune,Maharashtra,West,2022-04-23,STANDARD
+C000568,Customer 568,F,Pune,Maharashtra,West,2023-03-16,GOLD
+C000569,Customer 569,F,Hyderabad,Telangana,South,2025-11-05,STANDARD
+C000570,Customer 570,M,Hyderabad,Telangana,South,2024-06-18,STANDARD
+C000571,Customer 571,O,Hyderabad,Telangana,South,2024-01-18,GOLD
+C000572,Customer 572,F,Delhi,Delhi,North,2022-09-29,GOLD
+C000573,Customer 573,M,Pune,Maharashtra,West,2023-05-30,SILVER
+C000574,Customer 574,O,Chandigarh,Chandigarh,North,2022-09-03,GOLD
+C000575,Customer 575,O,Pune,Maharashtra,West,2024-04-16,STANDARD
+C000576,Customer 576,F,Mumbai,Maharashtra,West,2022-09-04,STANDARD
+C000577,Customer 577,O,Delhi,Delhi,North,2025-11-09,GOLD
+C000578,Customer 578,M,Delhi,Delhi,North,2025-12-15,GOLD
+C000579,Customer 579,F,Hyderabad,Telangana,South,2022-11-15,GOLD
+C000580,Customer 580,M,Jaipur,Rajasthan,North,2024-06-17,GOLD
+C000581,Customer 581,M,Delhi,Delhi,North,2024-02-17,GOLD
+C000582,Customer 582,O,Bengaluru,Karnataka,South,2022-05-11,GOLD
+C000583,Customer 583,F,Mumbai,Maharashtra,West,2022-04-27,SILVER
+C000584,Customer 584,M,Hyderabad,Telangana,South,2024-07-23,STANDARD
+C000585,Customer 585,M,Bengaluru,Karnataka,South,2022-09-23,STANDARD
+C000586,Customer 586,O,Bengaluru,Karnataka,South,2025-01-11,STANDARD
+C000587,Customer 587,F,Hyderabad,Telangana,South,2022-03-04,SILVER
+C000588,Customer 588,O,Hyderabad,Telangana,South,2025-04-10,GOLD
+C000589,Customer 589,F,Pune,Maharashtra,West,2022-03-14,STANDARD
+C000590,Customer 590,F,Mumbai,Maharashtra,West,2023-07-05,STANDARD
+C000591,Customer 591,F,Bengaluru,Karnataka,South,2025-01-15,GOLD
+C000592,Customer 592,F,Delhi,Delhi,North,2023-06-26,GOLD
+C000593,Customer 593,F,Chandigarh,Chandigarh,North,2025-06-23,SILVER
+C000594,Customer 594,O,Chandigarh,Chandigarh,North,2024-04-03,STANDARD
+C000595,Customer 595,F,Delhi,Delhi,North,2025-04-06,GOLD
+C000596,Customer 596,M,Hyderabad,Telangana,South,2024-05-22,STANDARD
+C000597,Customer 597,M,Pune,Maharashtra,West,2024-01-14,SILVER
+C000598,Customer 598,M,Bengaluru,Karnataka,South,2022-06-10,GOLD
+C000599,Customer 599,O,Chandigarh,Chandigarh,North,2024-08-19,STANDARD
+C000600,Customer 600,F,Mumbai,Maharashtra,West,2022-11-15,STANDARD
+C000601,Customer 601,O,Hyderabad,Telangana,South,2024-05-11,STANDARD
+C000602,Customer 602,M,Pune,Maharashtra,West,2022-11-14,GOLD
+C000603,Customer 603,F,Hyderabad,Telangana,South,2022-03-16,GOLD
+C000604,Customer 604,O,Delhi,Delhi,North,2025-03-17,STANDARD
+C000605,Customer 605,M,Bengaluru,Karnataka,South,2025-12-16,GOLD
+C000606,Customer 606,O,Pune,Maharashtra,West,2023-08-07,STANDARD
+C000607,Customer 607,F,Delhi,Delhi,North,2025-12-21,GOLD
+C000608,Customer 608,F,Hyderabad,Telangana,South,2023-04-21,STANDARD
+C000609,Customer 609,M,Mumbai,Maharashtra,West,2023-04-18,STANDARD
+C000610,Customer 610,F,Bengaluru,Karnataka,South,2023-05-25,GOLD
+C000611,Customer 611,F,Mumbai,Maharashtra,West,2023-10-10,SILVER
+C000612,Customer 612,O,Kolkata,West Bengal,East,2022-06-17,GOLD
+C000613,Customer 613,O,Mumbai,Maharashtra,West,2025-01-22,SILVER
+C000614,Customer 614,M,Mumbai,Maharashtra,West,2022-09-25,STANDARD
+C000615,Customer 615,F,Bengaluru,Karnataka,South,2025-01-11,STANDARD
+C000616,Customer 616,M,Mumbai,Maharashtra,West,2024-03-20,GOLD
+C000617,Customer 617,O,Kolkata,West Bengal,East,2026-01-10,GOLD
+C000618,Customer 618,M,Mumbai,Maharashtra,West,2022-01-27,SILVER
+C000619,Customer 619,O,Chandigarh,Chandigarh,North,2022-07-12,GOLD
+C000620,Customer 620,F,Bengaluru,Karnataka,South,2025-12-10,STANDARD
+C000621,Customer 621,M,Mumbai,Maharashtra,West,2022-09-29,SILVER
+C000622,Customer 622,M,Delhi,Delhi,North,2025-08-28,GOLD
+C000623,Customer 623,O,Kolkata,West Bengal,East,2022-06-06,STANDARD
+C000624,Customer 624,M,Bengaluru,Karnataka,South,2022-10-20,STANDARD
+C000625,Customer 625,M,Mumbai,Maharashtra,West,2024-02-08,GOLD
+C000626,Customer 626,F,Chandigarh,Chandigarh,North,2025-01-14,GOLD
+C000627,Customer 627,M,Kolkata,West Bengal,East,2024-05-12,SILVER
+C000628,Customer 628,F,Jaipur,Rajasthan,North,2023-12-30,GOLD
+C000629,Customer 629,O,Hyderabad,Telangana,South,2024-10-22,SILVER
+C000630,Customer 630,M,Hyderabad,Telangana,South,2024-02-03,SILVER
+C000631,Customer 631,F,Jaipur,Rajasthan,North,2023-10-22,SILVER
+C000632,Customer 632,M,Kolkata,West Bengal,East,2025-01-03,GOLD
+C000633,Customer 633,O,Mumbai,Maharashtra,West,2023-09-15,STANDARD
+C000634,Customer 634,O,Bengaluru,Karnataka,South,2024-02-21,STANDARD
+C000635,Customer 635,O,Bengaluru,Karnataka,South,2022-07-05,STANDARD
+C000636,Customer 636,F,Hyderabad,Telangana,South,2024-03-23,GOLD
+C000637,Customer 637,O,Bengaluru,Karnataka,South,2024-08-24,GOLD
+C000638,Customer 638,M,Mumbai,Maharashtra,West,2022-12-03,STANDARD
+C000639,Customer 639,O,Hyderabad,Telangana,South,2025-02-11,STANDARD
+C000640,Customer 640,M,Bengaluru,Karnataka,South,2024-07-07,GOLD
+C000641,Customer 641,O,Mumbai,Maharashtra,West,2025-09-02,SILVER
+C000642,Customer 642,M,Chandigarh,Chandigarh,North,2022-02-23,GOLD
+C000643,Customer 643,O,Hyderabad,Telangana,South,2024-11-30,SILVER
+C000644,Customer 644,F,Bengaluru,Karnataka,South,2023-06-19,SILVER
+C000645,Customer 645,F,Mumbai,Maharashtra,West,2023-07-23,GOLD
+C000646,Customer 646,M,Pune,Maharashtra,West,2025-08-25,SILVER
+C000647,Customer 647,M,Hyderabad,Telangana,South,2025-11-21,SILVER
+C000648,Customer 648,M,Pune,Maharashtra,West,2023-05-21,STANDARD
+C000649,Customer 649,O,Bengaluru,Karnataka,South,2022-03-12,GOLD
+C000650,Customer 650,O,Hyderabad,Telangana,South,2023-06-19,SILVER
+C000651,Customer 651,F,Mumbai,Maharashtra,West,2024-11-09,GOLD
+C000652,Customer 652,F,Hyderabad,Telangana,South,2024-05-18,GOLD
+C000653,Customer 653,M,Pune,Maharashtra,West,2024-01-25,GOLD
+C000654,Customer 654,O,Kolkata,West Bengal,East,2023-09-05,SILVER
+C000655,Customer 655,F,Delhi,Delhi,North,2023-12-20,SILVER
+C000656,Customer 656,M,Pune,Maharashtra,West,2022-08-24,SILVER
+C000657,Customer 657,O,Delhi,Delhi,North,2025-05-14,SILVER
+C000658,Customer 658,M,Pune,Maharashtra,West,2024-09-19,GOLD
+C000659,Customer 659,O,Hyderabad,Telangana,South,2024-06-20,GOLD
+C000660,Customer 660,M,Delhi,Delhi,North,2022-01-23,GOLD
+C000661,Customer 661,O,Mumbai,Maharashtra,West,2022-10-17,SILVER
+C000662,Customer 662,M,Mumbai,Maharashtra,West,2025-07-27,GOLD
+C000663,Customer 663,O,Bengaluru,Karnataka,South,2022-11-12,SILVER
+C000664,Customer 664,F,Jaipur,Rajasthan,North,2022-11-24,STANDARD
+C000665,Customer 665,O,Mumbai,Maharashtra,West,2022-10-11,SILVER
+C000666,Customer 666,F,Mumbai,Maharashtra,West,2022-02-09,GOLD
+C000667,Customer 667,M,Pune,Maharashtra,West,2022-10-12,SILVER
+C000668,Customer 668,O,Chandigarh,Chandigarh,North,2024-03-02,STANDARD
+C000669,Customer 669,M,Hyderabad,Telangana,South,2022-01-06,STANDARD
+C000670,Customer 670,F,Hyderabad,Telangana,South,2022-02-28,SILVER
+C000671,Customer 671,O,Pune,Maharashtra,West,2023-12-31,GOLD
+C000672,Customer 672,F,Chandigarh,Chandigarh,North,2022-01-11,GOLD
+C000673,Customer 673,O,Pune,Maharashtra,West,2024-01-11,SILVER
+C000674,Customer 674,O,Mumbai,Maharashtra,West,2023-09-27,STANDARD
+C000675,Customer 675,O,Kolkata,West Bengal,East,2024-11-23,SILVER
+C000676,Customer 676,M,Pune,Maharashtra,West,2022-12-21,STANDARD
+C000677,Customer 677,M,Hyderabad,Telangana,South,2023-12-10,GOLD
+C000678,Customer 678,O,Pune,Maharashtra,West,2023-11-27,GOLD
+C000679,Customer 679,F,Bengaluru,Karnataka,South,2023-05-23,GOLD
+C000680,Customer 680,F,Delhi,Delhi,North,2022-02-14,STANDARD
+C000681,Customer 681,F,Bengaluru,Karnataka,South,2022-02-05,STANDARD
+C000682,Customer 682,F,Chandigarh,Chandigarh,North,2025-12-15,STANDARD
+C000683,Customer 683,O,Pune,Maharashtra,West,2025-03-06,GOLD
+C000684,Customer 684,F,Bengaluru,Karnataka,South,2023-10-21,SILVER
+C000685,Customer 685,M,Jaipur,Rajasthan,North,2023-02-24,STANDARD
+C000686,Customer 686,M,Delhi,Delhi,North,2023-03-17,STANDARD
+C000687,Customer 687,M,Mumbai,Maharashtra,West,2023-07-20,SILVER
+C000688,Customer 688,O,Chandigarh,Chandigarh,North,2024-10-17,SILVER
+C000689,Customer 689,F,Bengaluru,Karnataka,South,2025-08-22,SILVER
+C000690,Customer 690,O,Delhi,Delhi,North,2022-09-24,SILVER
+C000691,Customer 691,F,Hyderabad,Telangana,South,2023-04-06,GOLD
+C000692,Customer 692,M,Bengaluru,Karnataka,South,2022-09-28,STANDARD
+C000693,Customer 693,O,Chandigarh,Chandigarh,North,2023-12-17,GOLD
+C000694,Customer 694,M,Mumbai,Maharashtra,West,2024-04-19,SILVER
+C000695,Customer 695,F,Jaipur,Rajasthan,North,2023-08-28,SILVER
+C000696,Customer 696,O,Hyderabad,Telangana,South,2022-09-21,STANDARD
+C000697,Customer 697,O,Mumbai,Maharashtra,West,2023-08-31,GOLD
+C000698,Customer 698,F,Kolkata,West Bengal,East,2022-05-15,GOLD
+C000699,Customer 699,F,Bengaluru,Karnataka,South,2024-02-15,GOLD
+C000700,Customer 700,M,Pune,Maharashtra,West,2025-10-16,GOLD
+C000701,Customer 701,F,Kolkata,West Bengal,East,2025-05-19,STANDARD
+C000702,Customer 702,F,Chandigarh,Chandigarh,North,2023-11-20,SILVER
+C000703,Customer 703,F,Chandigarh,Chandigarh,North,2023-06-27,SILVER
+C000704,Customer 704,M,Pune,Maharashtra,West,2024-12-23,STANDARD
+C000705,Customer 705,O,Delhi,Delhi,North,2023-11-01,SILVER
+C000706,Customer 706,M,Bengaluru,Karnataka,South,2025-10-20,SILVER
+C000707,Customer 707,F,Delhi,Delhi,North,2025-02-07,SILVER
+C000708,Customer 708,F,Pune,Maharashtra,West,2023-01-04,SILVER
+C000709,Customer 709,F,Bengaluru,Karnataka,South,2023-03-13,STANDARD
+C000710,Customer 710,O,Kolkata,West Bengal,East,2025-05-28,STANDARD
+C000711,Customer 711,M,Hyderabad,Telangana,South,2025-05-08,STANDARD
+C000712,Customer 712,O,Jaipur,Rajasthan,North,2023-06-07,SILVER
+C000713,Customer 713,F,Mumbai,Maharashtra,West,2022-12-24,GOLD
+C000714,Customer 714,F,Jaipur,Rajasthan,North,2024-11-19,GOLD
+C000715,Customer 715,M,Pune,Maharashtra,West,2024-11-12,STANDARD
+C000716,Customer 716,O,Hyderabad,Telangana,South,2022-12-18,SILVER
+C000717,Customer 717,O,Delhi,Delhi,North,2023-10-09,GOLD
+C000718,Customer 718,M,Mumbai,Maharashtra,West,2024-08-02,GOLD
+C000719,Customer 719,M,Mumbai,Maharashtra,West,2023-07-23,STANDARD
+C000720,Customer 720,O,Hyderabad,Telangana,South,2024-09-20,GOLD
+C000721,Customer 721,F,Mumbai,Maharashtra,West,2023-07-17,GOLD
+C000722,Customer 722,M,Mumbai,Maharashtra,West,2022-05-02,STANDARD
+C000723,Customer 723,F,Kolkata,West Bengal,East,2022-10-21,GOLD
+C000724,Customer 724,M,Kolkata,West Bengal,East,2024-05-20,GOLD
+C000725,Customer 725,O,Chandigarh,Chandigarh,North,2025-04-07,SILVER
+C000726,Customer 726,M,Bengaluru,Karnataka,South,2023-11-10,STANDARD
+C000727,Customer 727,F,Pune,Maharashtra,West,2023-02-12,STANDARD
+C000728,Customer 728,O,Jaipur,Rajasthan,North,2023-10-19,GOLD
+C000729,Customer 729,F,Chandigarh,Chandigarh,North,2024-06-25,SILVER
+C000730,Customer 730,F,Jaipur,Rajasthan,North,2022-04-20,SILVER
+C000731,Customer 731,M,Mumbai,Maharashtra,West,2024-12-18,STANDARD
+C000732,Customer 732,O,Hyderabad,Telangana,South,2024-10-08,GOLD
+C000733,Customer 733,M,Pune,Maharashtra,West,2023-12-29,SILVER
+C000734,Customer 734,O,Chandigarh,Chandigarh,North,2022-09-09,SILVER
+C000735,Customer 735,F,Hyderabad,Telangana,South,2024-02-17,STANDARD
+C000736,Customer 736,M,Jaipur,Rajasthan,North,2025-02-03,STANDARD
+C000737,Customer 737,M,Jaipur,Rajasthan,North,2025-08-17,SILVER
+C000738,Customer 738,O,Bengaluru,Karnataka,South,2024-10-15,GOLD
+C000739,Customer 739,M,Chandigarh,Chandigarh,North,2025-05-31,SILVER
+C000740,Customer 740,M,Jaipur,Rajasthan,North,2024-10-26,GOLD
+C000741,Customer 741,M,Delhi,Delhi,North,2025-02-06,STANDARD
+C000742,Customer 742,M,Hyderabad,Telangana,South,2026-01-06,STANDARD
+C000743,Customer 743,M,Jaipur,Rajasthan,North,2023-08-10,GOLD
+C000744,Customer 744,O,Hyderabad,Telangana,South,2024-06-17,STANDARD
+C000745,Customer 745,O,Kolkata,West Bengal,East,2023-05-01,STANDARD
+C000746,Customer 746,F,Chandigarh,Chandigarh,North,2025-06-15,GOLD
+C000747,Customer 747,M,Hyderabad,Telangana,South,2024-06-24,SILVER
+C000748,Customer 748,O,Jaipur,Rajasthan,North,2025-01-10,SILVER
+C000749,Customer 749,M,Mumbai,Maharashtra,West,2025-11-15,STANDARD
+C000750,Customer 750,M,Chandigarh,Chandigarh,North,2025-09-12,SILVER
+C000751,Customer 751,M,Mumbai,Maharashtra,West,2025-01-13,SILVER
+C000752,Customer 752,M,Mumbai,Maharashtra,West,2022-09-11,GOLD
+C000753,Customer 753,F,Pune,Maharashtra,West,2022-07-18,GOLD
+C000754,Customer 754,F,Chandigarh,Chandigarh,North,2022-01-22,GOLD
+C000755,Customer 755,F,Delhi,Delhi,North,2022-04-01,GOLD
+C000756,Customer 756,F,Hyderabad,Telangana,South,2025-06-26,GOLD
+C000757,Customer 757,M,Pune,Maharashtra,West,2025-12-04,SILVER
+C000758,Customer 758,F,Bengaluru,Karnataka,South,2023-08-28,GOLD
+C000759,Customer 759,M,Delhi,Delhi,North,2022-05-31,STANDARD
+C000760,Customer 760,M,Delhi,Delhi,North,2025-06-26,GOLD
+C000761,Customer 761,O,Jaipur,Rajasthan,North,2024-02-20,SILVER
+C000762,Customer 762,M,Mumbai,Maharashtra,West,2025-07-14,STANDARD
+C000763,Customer 763,F,Kolkata,West Bengal,East,2025-01-06,SILVER
+C000764,Customer 764,M,Jaipur,Rajasthan,North,2022-06-25,STANDARD
+C000765,Customer 765,M,Pune,Maharashtra,West,2025-12-21,GOLD
+C000766,Customer 766,O,Delhi,Delhi,North,2025-07-28,GOLD
+C000767,Customer 767,O,Mumbai,Maharashtra,West,2025-10-03,STANDARD
+C000768,Customer 768,F,Hyderabad,Telangana,South,2024-09-09,STANDARD
+C000769,Customer 769,M,Hyderabad,Telangana,South,2022-09-16,GOLD
+C000770,Customer 770,O,Hyderabad,Telangana,South,2025-05-12,STANDARD
+C000771,Customer 771,O,Pune,Maharashtra,West,2023-01-24,GOLD
+C000772,Customer 772,F,Delhi,Delhi,North,2024-03-08,GOLD
+C000773,Customer 773,M,Bengaluru,Karnataka,South,2024-10-27,GOLD
+C000774,Customer 774,O,Delhi,Delhi,North,2024-11-21,SILVER
+C000775,Customer 775,M,Delhi,Delhi,North,2024-10-04,STANDARD
+C000776,Customer 776,F,Mumbai,Maharashtra,West,2025-10-09,STANDARD
+C000777,Customer 777,F,Bengaluru,Karnataka,South,2023-08-21,STANDARD
+C000778,Customer 778,O,Delhi,Delhi,North,2025-09-30,STANDARD
+C000779,Customer 779,M,Bengaluru,Karnataka,South,2022-11-14,SILVER
+C000780,Customer 780,M,Hyderabad,Telangana,South,2024-10-20,STANDARD
+C000781,Customer 781,M,Chandigarh,Chandigarh,North,2025-08-19,GOLD
+C000782,Customer 782,F,Hyderabad,Telangana,South,2023-03-28,STANDARD
+C000783,Customer 783,F,Mumbai,Maharashtra,West,2025-07-04,STANDARD
+C000784,Customer 784,M,Bengaluru,Karnataka,South,2024-08-17,GOLD
+C000785,Customer 785,O,Pune,Maharashtra,West,2022-05-13,SILVER
+C000786,Customer 786,F,Mumbai,Maharashtra,West,2022-04-21,STANDARD
+C000787,Customer 787,O,Delhi,Delhi,North,2023-11-10,STANDARD
+C000788,Customer 788,F,Delhi,Delhi,North,2023-08-11,STANDARD
+C000789,Customer 789,F,Kolkata,West Bengal,East,2022-09-08,STANDARD
+C000790,Customer 790,F,Kolkata,West Bengal,East,2025-03-14,GOLD
+C000791,Customer 791,M,Chandigarh,Chandigarh,North,2024-07-27,STANDARD
+C000792,Customer 792,F,Hyderabad,Telangana,South,2024-11-14,GOLD
+C000793,Customer 793,O,Delhi,Delhi,North,2026-01-24,GOLD
+C000794,Customer 794,O,Kolkata,West Bengal,East,2023-10-13,SILVER
+C000795,Customer 795,F,Hyderabad,Telangana,South,2024-07-26,SILVER
+C000796,Customer 796,M,Pune,Maharashtra,West,2022-07-23,SILVER
+C000797,Customer 797,O,Mumbai,Maharashtra,West,2024-09-28,SILVER
+C000798,Customer 798,O,Chandigarh,Chandigarh,North,2024-07-25,SILVER
+C000799,Customer 799,M,Pune,Maharashtra,West,2022-05-23,SILVER
+C000800,Customer 800,F,Kolkata,West Bengal,East,2023-07-05,GOLD
+C000801,Customer 801,F,Hyderabad,Telangana,South,2024-07-23,SILVER
+C000802,Customer 802,M,Pune,Maharashtra,West,2022-04-29,SILVER
+C000803,Customer 803,O,Chandigarh,Chandigarh,North,2023-04-20,GOLD
+C000804,Customer 804,O,Jaipur,Rajasthan,North,2023-10-09,SILVER
+C000805,Customer 805,F,Kolkata,West Bengal,East,2022-10-02,GOLD
+C000806,Customer 806,O,Kolkata,West Bengal,East,2024-06-01,STANDARD
+C000807,Customer 807,O,Hyderabad,Telangana,South,2022-10-04,STANDARD
+C000808,Customer 808,M,Jaipur,Rajasthan,North,2024-02-13,SILVER
+C000809,Customer 809,F,Mumbai,Maharashtra,West,2023-07-31,GOLD
+C000810,Customer 810,M,Chandigarh,Chandigarh,North,2023-07-08,SILVER
+C000811,Customer 811,F,Chandigarh,Chandigarh,North,2025-06-11,GOLD
+C000812,Customer 812,O,Pune,Maharashtra,West,2022-05-09,SILVER
+C000813,Customer 813,O,Jaipur,Rajasthan,North,2022-05-22,GOLD
+C000814,Customer 814,F,Delhi,Delhi,North,2026-01-09,STANDARD
+C000815,Customer 815,O,Mumbai,Maharashtra,West,2023-11-21,GOLD
+C000816,Customer 816,F,Chandigarh,Chandigarh,North,2025-11-22,SILVER
+C000817,Customer 817,F,Jaipur,Rajasthan,North,2025-06-09,GOLD
+C000818,Customer 818,F,Kolkata,West Bengal,East,2024-03-16,GOLD
+C000819,Customer 819,M,Hyderabad,Telangana,South,2022-11-23,GOLD
+C000820,Customer 820,F,Delhi,Delhi,North,2025-01-15,SILVER
+C000821,Customer 821,O,Delhi,Delhi,North,2024-11-28,STANDARD
+C000822,Customer 822,M,Chandigarh,Chandigarh,North,2022-08-28,SILVER
+C000823,Customer 823,F,Jaipur,Rajasthan,North,2022-06-11,GOLD
+C000824,Customer 824,O,Delhi,Delhi,North,2023-09-26,GOLD
+C000825,Customer 825,F,Delhi,Delhi,North,2022-10-09,SILVER
+C000826,Customer 826,O,Pune,Maharashtra,West,2024-08-07,SILVER
+C000827,Customer 827,F,Bengaluru,Karnataka,South,2024-06-12,GOLD
+C000828,Customer 828,M,Bengaluru,Karnataka,South,2024-06-02,SILVER
+C000829,Customer 829,F,Pune,Maharashtra,West,2023-02-13,GOLD
+C000830,Customer 830,M,Mumbai,Maharashtra,West,2024-03-19,SILVER
+C000831,Customer 831,F,Pune,Maharashtra,West,2023-01-26,GOLD
+C000832,Customer 832,O,Pune,Maharashtra,West,2022-02-05,SILVER
+C000833,Customer 833,M,Pune,Maharashtra,West,2023-09-06,SILVER
+C000834,Customer 834,F,Kolkata,West Bengal,East,2022-03-05,STANDARD
+C000835,Customer 835,F,Kolkata,West Bengal,East,2025-12-05,STANDARD
+C000836,Customer 836,F,Chandigarh,Chandigarh,North,2025-11-02,STANDARD
+C000837,Customer 837,M,Kolkata,West Bengal,East,2023-02-28,GOLD
+C000838,Customer 838,F,Jaipur,Rajasthan,North,2022-11-11,GOLD
+C000839,Customer 839,M,Jaipur,Rajasthan,North,2022-10-03,STANDARD
+C000840,Customer 840,M,Pune,Maharashtra,West,2024-09-27,STANDARD
+C000841,Customer 841,M,Chandigarh,Chandigarh,North,2023-09-24,GOLD
+C000842,Customer 842,M,Chandigarh,Chandigarh,North,2025-12-13,STANDARD
+C000843,Customer 843,O,Jaipur,Rajasthan,North,2022-12-24,SILVER
+C000844,Customer 844,M,Pune,Maharashtra,West,2025-01-04,GOLD
+C000845,Customer 845,O,Jaipur,Rajasthan,North,2025-01-15,GOLD
+C000846,Customer 846,O,Mumbai,Maharashtra,West,2023-04-24,SILVER
+C000847,Customer 847,F,Delhi,Delhi,North,2025-06-17,SILVER
+C000848,Customer 848,O,Chandigarh,Chandigarh,North,2022-11-12,GOLD
+C000849,Customer 849,F,Pune,Maharashtra,West,2023-07-14,GOLD
+C000850,Customer 850,M,Kolkata,West Bengal,East,2022-01-28,GOLD
+C000851,Customer 851,O,Chandigarh,Chandigarh,North,2022-06-27,SILVER
+C000852,Customer 852,O,Chandigarh,Chandigarh,North,2023-05-25,GOLD
+C000853,Customer 853,M,Mumbai,Maharashtra,West,2023-02-14,GOLD
+C000854,Customer 854,O,Hyderabad,Telangana,South,2022-06-04,SILVER
+C000855,Customer 855,M,Kolkata,West Bengal,East,2025-08-01,GOLD
+C000856,Customer 856,M,Hyderabad,Telangana,South,2025-07-26,STANDARD
+C000857,Customer 857,M,Kolkata,West Bengal,East,2024-05-12,STANDARD
+C000858,Customer 858,O,Kolkata,West Bengal,East,2023-04-10,GOLD
+C000859,Customer 859,F,Chandigarh,Chandigarh,North,2025-12-14,SILVER
+C000860,Customer 860,M,Hyderabad,Telangana,South,2024-02-19,SILVER
+C000861,Customer 861,M,Mumbai,Maharashtra,West,2023-03-03,SILVER
+C000862,Customer 862,O,Hyderabad,Telangana,South,2022-06-20,SILVER
+C000863,Customer 863,F,Delhi,Delhi,North,2023-07-01,SILVER
+C000864,Customer 864,O,Hyderabad,Telangana,South,2023-12-18,SILVER
+C000865,Customer 865,O,Pune,Maharashtra,West,2022-08-22,STANDARD
+C000866,Customer 866,O,Chandigarh,Chandigarh,North,2023-04-28,STANDARD
+C000867,Customer 867,F,Pune,Maharashtra,West,2025-11-28,GOLD
+C000868,Customer 868,F,Delhi,Delhi,North,2023-07-15,SILVER
+C000869,Customer 869,M,Hyderabad,Telangana,South,2025-07-22,SILVER
+C000870,Customer 870,O,Delhi,Delhi,North,2024-06-02,SILVER
+C000871,Customer 871,O,Hyderabad,Telangana,South,2023-07-20,STANDARD
+C000872,Customer 872,O,Chandigarh,Chandigarh,North,2025-04-04,GOLD
+C000873,Customer 873,M,Mumbai,Maharashtra,West,2022-07-24,SILVER
+C000874,Customer 874,O,Bengaluru,Karnataka,South,2025-10-16,GOLD
+C000875,Customer 875,O,Jaipur,Rajasthan,North,2024-03-26,GOLD
+C000876,Customer 876,M,Mumbai,Maharashtra,West,2024-12-05,STANDARD
+C000877,Customer 877,M,Mumbai,Maharashtra,West,2024-06-01,SILVER
+C000878,Customer 878,M,Chandigarh,Chandigarh,North,2022-02-28,SILVER
+C000879,Customer 879,F,Kolkata,West Bengal,East,2026-01-13,GOLD
+C000880,Customer 880,F,Pune,Maharashtra,West,2024-10-31,GOLD
+C000881,Customer 881,M,Bengaluru,Karnataka,South,2024-04-19,STANDARD
+C000882,Customer 882,O,Jaipur,Rajasthan,North,2022-08-18,GOLD
+C000883,Customer 883,M,Delhi,Delhi,North,2024-07-12,STANDARD
+C000884,Customer 884,F,Jaipur,Rajasthan,North,2025-12-05,GOLD
+C000885,Customer 885,M,Bengaluru,Karnataka,South,2023-12-20,SILVER
+C000886,Customer 886,M,Bengaluru,Karnataka,South,2022-07-11,STANDARD
+C000887,Customer 887,F,Bengaluru,Karnataka,South,2023-04-18,STANDARD
+C000888,Customer 888,F,Mumbai,Maharashtra,West,2022-10-22,STANDARD
+C000889,Customer 889,M,Kolkata,West Bengal,East,2024-07-31,STANDARD
+C000890,Customer 890,O,Bengaluru,Karnataka,South,2025-10-27,STANDARD
+C000891,Customer 891,O,Hyderabad,Telangana,South,2022-10-27,GOLD
+C000892,Customer 892,M,Bengaluru,Karnataka,South,2023-10-06,STANDARD
+C000893,Customer 893,F,Hyderabad,Telangana,South,2022-05-17,STANDARD
+C000894,Customer 894,M,Kolkata,West Bengal,East,2024-12-27,SILVER
+C000895,Customer 895,F,Bengaluru,Karnataka,South,2024-05-06,SILVER
+C000896,Customer 896,M,Hyderabad,Telangana,South,2023-06-30,STANDARD
+C000897,Customer 897,M,Mumbai,Maharashtra,West,2025-08-27,STANDARD
+C000898,Customer 898,O,Hyderabad,Telangana,South,2025-12-22,SILVER
+C000899,Customer 899,F,Kolkata,West Bengal,East,2026-01-19,GOLD
+C000900,Customer 900,F,Bengaluru,Karnataka,South,2026-02-04,SILVER
+C000901,Customer 901,F,Delhi,Delhi,North,2022-06-29,SILVER
+C000902,Customer 902,F,Chandigarh,Chandigarh,North,2024-11-22,STANDARD
+C000903,Customer 903,M,Pune,Maharashtra,West,2022-03-14,SILVER
+C000904,Customer 904,M,Kolkata,West Bengal,East,2024-10-21,GOLD
+C000905,Customer 905,O,Hyderabad,Telangana,South,2025-03-18,STANDARD
+C000906,Customer 906,M,Chandigarh,Chandigarh,North,2024-01-05,SILVER
+C000907,Customer 907,F,Delhi,Delhi,North,2025-07-04,GOLD
+C000908,Customer 908,M,Delhi,Delhi,North,2023-11-30,GOLD
+C000909,Customer 909,O,Hyderabad,Telangana,South,2025-03-18,GOLD
+C000910,Customer 910,M,Hyderabad,Telangana,South,2025-11-27,SILVER
+C000911,Customer 911,F,Mumbai,Maharashtra,West,2024-03-18,GOLD
+C000912,Customer 912,O,Chandigarh,Chandigarh,North,2026-01-13,SILVER
+C000913,Customer 913,O,Pune,Maharashtra,West,2024-12-25,SILVER
+C000914,Customer 914,O,Pune,Maharashtra,West,2025-01-27,STANDARD
+C000915,Customer 915,O,Bengaluru,Karnataka,South,2024-07-08,STANDARD
+C000916,Customer 916,F,Kolkata,West Bengal,East,2022-10-22,SILVER
+C000917,Customer 917,O,Bengaluru,Karnataka,South,2023-11-05,GOLD
+C000918,Customer 918,M,Mumbai,Maharashtra,West,2023-08-05,STANDARD
+C000919,Customer 919,M,Bengaluru,Karnataka,South,2024-10-05,STANDARD
+C000920,Customer 920,O,Hyderabad,Telangana,South,2024-08-26,SILVER
+C000921,Customer 921,M,Jaipur,Rajasthan,North,2023-07-09,STANDARD
+C000922,Customer 922,M,Delhi,Delhi,North,2024-08-07,STANDARD
+C000923,Customer 923,O,Bengaluru,Karnataka,South,2025-11-25,GOLD
+C000924,Customer 924,M,Hyderabad,Telangana,South,2023-09-06,SILVER
+C000925,Customer 925,F,Kolkata,West Bengal,East,2022-03-23,STANDARD
+C000926,Customer 926,O,Pune,Maharashtra,West,2024-07-22,GOLD
+C000927,Customer 927,F,Jaipur,Rajasthan,North,2022-09-17,SILVER
+C000928,Customer 928,M,Kolkata,West Bengal,East,2025-05-28,GOLD
+C000929,Customer 929,F,Chandigarh,Chandigarh,North,2025-02-09,GOLD
+C000930,Customer 930,O,Bengaluru,Karnataka,South,2024-01-10,SILVER
+C000931,Customer 931,M,Mumbai,Maharashtra,West,2023-12-02,GOLD
+C000932,Customer 932,M,Pune,Maharashtra,West,2024-08-26,GOLD
+C000933,Customer 933,M,Pune,Maharashtra,West,2022-11-17,SILVER
+C000934,Customer 934,O,Chandigarh,Chandigarh,North,2022-01-07,GOLD
+C000935,Customer 935,F,Bengaluru,Karnataka,South,2022-01-19,SILVER
+C000936,Customer 936,M,Bengaluru,Karnataka,South,2024-11-01,STANDARD
+C000937,Customer 937,F,Bengaluru,Karnataka,South,2022-06-25,GOLD
+C000938,Customer 938,O,Delhi,Delhi,North,2023-02-07,STANDARD
+C000939,Customer 939,F,Mumbai,Maharashtra,West,2025-08-23,GOLD
+C000940,Customer 940,F,Delhi,Delhi,North,2023-06-09,STANDARD
+C000941,Customer 941,O,Delhi,Delhi,North,2023-01-10,GOLD
+C000942,Customer 942,M,Pune,Maharashtra,West,2022-04-04,GOLD
+C000943,Customer 943,F,Bengaluru,Karnataka,South,2023-12-09,STANDARD
+C000944,Customer 944,F,Jaipur,Rajasthan,North,2023-05-29,GOLD
+C000945,Customer 945,F,Chandigarh,Chandigarh,North,2025-08-01,STANDARD
+C000946,Customer 946,O,Pune,Maharashtra,West,2023-12-17,SILVER
+C000947,Customer 947,M,Delhi,Delhi,North,2025-10-17,GOLD
+C000948,Customer 948,F,Delhi,Delhi,North,2023-09-08,SILVER
+C000949,Customer 949,O,Bengaluru,Karnataka,South,2022-02-14,GOLD
+C000950,Customer 950,F,Pune,Maharashtra,West,2022-04-08,SILVER
+C000951,Customer 951,O,Bengaluru,Karnataka,South,2025-12-22,GOLD
+C000952,Customer 952,O,Jaipur,Rajasthan,North,2025-01-28,STANDARD
+C000953,Customer 953,F,Hyderabad,Telangana,South,2023-05-02,SILVER
+C000954,Customer 954,F,Kolkata,West Bengal,East,2025-08-07,STANDARD
+C000955,Customer 955,O,Jaipur,Rajasthan,North,2026-01-21,GOLD
+C000956,Customer 956,F,Jaipur,Rajasthan,North,2022-01-03,GOLD
+C000957,Customer 957,F,Mumbai,Maharashtra,West,2025-08-16,STANDARD
+C000958,Customer 958,F,Hyderabad,Telangana,South,2023-04-03,GOLD
+C000959,Customer 959,M,Bengaluru,Karnataka,South,2024-10-26,GOLD
+C000960,Customer 960,M,Mumbai,Maharashtra,West,2024-09-20,SILVER
+C000961,Customer 961,O,Jaipur,Rajasthan,North,2024-02-29,GOLD
+C000962,Customer 962,F,Bengaluru,Karnataka,South,2024-04-08,STANDARD
+C000963,Customer 963,M,Chandigarh,Chandigarh,North,2024-12-26,GOLD
+C000964,Customer 964,O,Delhi,Delhi,North,2024-05-04,GOLD
+C000965,Customer 965,O,Chandigarh,Chandigarh,North,2023-06-22,SILVER
+C000966,Customer 966,F,Hyderabad,Telangana,South,2024-09-18,GOLD
+C000967,Customer 967,O,Pune,Maharashtra,West,2022-01-11,STANDARD
+C000968,Customer 968,O,Jaipur,Rajasthan,North,2024-08-17,SILVER
+C000969,Customer 969,F,Hyderabad,Telangana,South,2023-03-22,SILVER
+C000970,Customer 970,M,Bengaluru,Karnataka,South,2023-01-07,STANDARD
+C000971,Customer 971,O,Pune,Maharashtra,West,2023-02-11,GOLD
+C000972,Customer 972,M,Hyderabad,Telangana,South,2024-02-16,SILVER
+C000973,Customer 973,M,Jaipur,Rajasthan,North,2025-01-02,GOLD
+C000974,Customer 974,O,Hyderabad,Telangana,South,2025-01-12,STANDARD
+C000975,Customer 975,O,Chandigarh,Chandigarh,North,2024-01-03,GOLD
+C000976,Customer 976,F,Bengaluru,Karnataka,South,2024-04-02,GOLD
+C000977,Customer 977,F,Bengaluru,Karnataka,South,2023-11-16,SILVER
+C000978,Customer 978,O,Delhi,Delhi,North,2024-01-28,SILVER
+C000979,Customer 979,M,Hyderabad,Telangana,South,2022-08-28,STANDARD
+C000980,Customer 980,F,Chandigarh,Chandigarh,North,2022-01-08,GOLD
+C000981,Customer 981,O,Mumbai,Maharashtra,West,2025-09-15,SILVER
+C000982,Customer 982,M,Kolkata,West Bengal,East,2023-04-14,STANDARD
+C000983,Customer 983,O,Hyderabad,Telangana,South,2023-08-10,GOLD
+C000984,Customer 984,F,Mumbai,Maharashtra,West,2024-03-12,STANDARD
+C000985,Customer 985,O,Pune,Maharashtra,West,2024-11-27,SILVER
+C000986,Customer 986,F,Mumbai,Maharashtra,West,2025-11-27,SILVER
+C000987,Customer 987,F,Delhi,Delhi,North,2022-08-22,SILVER
+C000988,Customer 988,O,Kolkata,West Bengal,East,2023-10-19,STANDARD
+C000989,Customer 989,O,Hyderabad,Telangana,South,2024-09-29,SILVER
+C000990,Customer 990,O,Bengaluru,Karnataka,South,2023-08-25,SILVER
+C000991,Customer 991,O,Delhi,Delhi,North,2022-02-21,GOLD
+C000992,Customer 992,O,Jaipur,Rajasthan,North,2022-10-08,GOLD
+C000993,Customer 993,O,Jaipur,Rajasthan,North,2022-10-16,SILVER
+C000994,Customer 994,O,Bengaluru,Karnataka,South,2022-10-09,GOLD
+C000995,Customer 995,F,Pune,Maharashtra,West,2022-11-15,SILVER
+C000996,Customer 996,M,Mumbai,Maharashtra,West,2023-11-17,GOLD
+C000997,Customer 997,F,Bengaluru,Karnataka,South,2025-07-03,SILVER
+C000998,Customer 998,M,Pune,Maharashtra,West,2025-01-16,STANDARD
+C000999,Customer 999,M,Delhi,Delhi,North,2024-07-19,GOLD
+C001000,Customer 1000,M,Jaipur,Rajasthan,North,2022-09-10,STANDARD
+C001001,Customer 1001,O,Delhi,Delhi,North,2024-10-30,GOLD
+C001002,Customer 1002,M,Delhi,Delhi,North,2024-06-11,SILVER
+C001003,Customer 1003,F,Delhi,Delhi,North,2023-11-02,STANDARD
+C001004,Customer 1004,O,Hyderabad,Telangana,South,2024-12-03,SILVER
+C001005,Customer 1005,O,Bengaluru,Karnataka,South,2023-04-10,SILVER
+C001006,Customer 1006,F,Hyderabad,Telangana,South,2023-10-11,STANDARD
+C001007,Customer 1007,M,Pune,Maharashtra,West,2022-12-17,STANDARD
+C001008,Customer 1008,O,Bengaluru,Karnataka,South,2023-07-10,STANDARD
+C001009,Customer 1009,O,Hyderabad,Telangana,South,2022-08-26,GOLD
+C001010,Customer 1010,F,Bengaluru,Karnataka,South,2023-08-14,SILVER
+C001011,Customer 1011,M,Jaipur,Rajasthan,North,2024-02-21,SILVER
+C001012,Customer 1012,M,Pune,Maharashtra,West,2025-04-23,GOLD
+C001013,Customer 1013,O,Delhi,Delhi,North,2024-05-08,SILVER
+C001014,Customer 1014,O,Bengaluru,Karnataka,South,2025-02-21,GOLD
+C001015,Customer 1015,O,Bengaluru,Karnataka,South,2022-10-24,STANDARD
+C001016,Customer 1016,O,Mumbai,Maharashtra,West,2024-05-02,STANDARD
+C001017,Customer 1017,M,Chandigarh,Chandigarh,North,2024-01-31,GOLD
+C001018,Customer 1018,F,Mumbai,Maharashtra,West,2023-06-24,STANDARD
+C001019,Customer 1019,M,Delhi,Delhi,North,2022-10-26,STANDARD
+C001020,Customer 1020,O,Delhi,Delhi,North,2022-02-07,SILVER
+C001021,Customer 1021,O,Pune,Maharashtra,West,2024-03-16,SILVER
+C001022,Customer 1022,F,Delhi,Delhi,North,2024-09-20,SILVER
+C001023,Customer 1023,M,Pune,Maharashtra,West,2026-01-01,SILVER
+C001024,Customer 1024,M,Chandigarh,Chandigarh,North,2026-01-13,SILVER
+C001025,Customer 1025,F,Pune,Maharashtra,West,2022-06-25,STANDARD
+C001026,Customer 1026,O,Chandigarh,Chandigarh,North,2024-09-25,GOLD
+C001027,Customer 1027,M,Hyderabad,Telangana,South,2025-11-30,STANDARD
+C001028,Customer 1028,M,Chandigarh,Chandigarh,North,2025-04-19,SILVER
+C001029,Customer 1029,O,Hyderabad,Telangana,South,2024-05-24,GOLD
+C001030,Customer 1030,F,Hyderabad,Telangana,South,2025-06-19,GOLD
+C001031,Customer 1031,O,Mumbai,Maharashtra,West,2023-09-29,STANDARD
+C001032,Customer 1032,M,Hyderabad,Telangana,South,2024-06-25,STANDARD
+C001033,Customer 1033,M,Bengaluru,Karnataka,South,2022-04-02,GOLD
+C001034,Customer 1034,O,Pune,Maharashtra,West,2024-02-08,SILVER
+C001035,Customer 1035,O,Pune,Maharashtra,West,2022-06-11,STANDARD
+C001036,Customer 1036,M,Delhi,Delhi,North,2025-09-21,SILVER
+C001037,Customer 1037,F,Delhi,Delhi,North,2023-02-20,STANDARD
+C001038,Customer 1038,O,Jaipur,Rajasthan,North,2022-01-22,GOLD
+C001039,Customer 1039,O,Chandigarh,Chandigarh,North,2023-07-03,STANDARD
+C001040,Customer 1040,O,Pune,Maharashtra,West,2023-06-24,GOLD
+C001041,Customer 1041,F,Bengaluru,Karnataka,South,2023-01-28,GOLD
+C001042,Customer 1042,M,Chandigarh,Chandigarh,North,2025-07-28,GOLD
+C001043,Customer 1043,M,Hyderabad,Telangana,South,2023-03-17,GOLD
+C001044,Customer 1044,O,Jaipur,Rajasthan,North,2023-06-14,GOLD
+C001045,Customer 1045,F,Pune,Maharashtra,West,2023-12-06,GOLD
+C001046,Customer 1046,O,Chandigarh,Chandigarh,North,2022-12-30,STANDARD
+C001047,Customer 1047,M,Delhi,Delhi,North,2023-06-26,GOLD
+C001048,Customer 1048,O,Pune,Maharashtra,West,2023-06-02,GOLD
+C001049,Customer 1049,M,Bengaluru,Karnataka,South,2023-04-18,SILVER
+C001050,Customer 1050,F,Jaipur,Rajasthan,North,2024-12-03,SILVER
+C001051,Customer 1051,F,Jaipur,Rajasthan,North,2023-06-30,SILVER
+C001052,Customer 1052,F,Chandigarh,Chandigarh,North,2024-06-06,GOLD
+C001053,Customer 1053,O,Kolkata,West Bengal,East,2022-01-28,STANDARD
+C001054,Customer 1054,O,Mumbai,Maharashtra,West,2022-07-24,SILVER
+C001055,Customer 1055,M,Kolkata,West Bengal,East,2022-02-08,STANDARD
+C001056,Customer 1056,O,Pune,Maharashtra,West,2022-09-02,SILVER
+C001057,Customer 1057,M,Chandigarh,Chandigarh,North,2023-11-10,SILVER
+C001058,Customer 1058,F,Kolkata,West Bengal,East,2023-08-31,GOLD
+C001059,Customer 1059,O,Kolkata,West Bengal,East,2024-10-30,STANDARD
+C001060,Customer 1060,O,Kolkata,West Bengal,East,2025-09-21,STANDARD
+C001061,Customer 1061,O,Kolkata,West Bengal,East,2023-06-22,STANDARD
+C001062,Customer 1062,O,Pune,Maharashtra,West,2022-09-28,GOLD
+C001063,Customer 1063,O,Bengaluru,Karnataka,South,2026-02-02,SILVER
+C001064,Customer 1064,F,Mumbai,Maharashtra,West,2025-01-29,SILVER
+C001065,Customer 1065,M,Kolkata,West Bengal,East,2023-02-18,STANDARD
+C001066,Customer 1066,M,Hyderabad,Telangana,South,2023-06-16,STANDARD
+C001067,Customer 1067,O,Delhi,Delhi,North,2022-09-02,SILVER
+C001068,Customer 1068,F,Bengaluru,Karnataka,South,2025-05-16,STANDARD
+C001069,Customer 1069,F,Jaipur,Rajasthan,North,2024-09-03,STANDARD
+C001070,Customer 1070,O,Mumbai,Maharashtra,West,2024-08-04,GOLD
+C001071,Customer 1071,F,Chandigarh,Chandigarh,North,2024-02-09,STANDARD
+C001072,Customer 1072,F,Mumbai,Maharashtra,West,2025-05-23,STANDARD
+C001073,Customer 1073,O,Delhi,Delhi,North,2023-10-11,SILVER
+C001074,Customer 1074,M,Kolkata,West Bengal,East,2025-04-15,STANDARD
+C001075,Customer 1075,M,Chandigarh,Chandigarh,North,2024-03-15,STANDARD
+C001076,Customer 1076,F,Mumbai,Maharashtra,West,2022-10-08,SILVER
+C001077,Customer 1077,O,Delhi,Delhi,North,2025-02-11,SILVER
+C001078,Customer 1078,M,Bengaluru,Karnataka,South,2025-12-01,GOLD
+C001079,Customer 1079,F,Hyderabad,Telangana,South,2025-02-03,GOLD
+C001080,Customer 1080,F,Kolkata,West Bengal,East,2025-03-18,GOLD
+C001081,Customer 1081,M,Chandigarh,Chandigarh,North,2025-05-14,STANDARD
+C001082,Customer 1082,M,Delhi,Delhi,North,2025-12-24,GOLD
+C001083,Customer 1083,M,Chandigarh,Chandigarh,North,2024-12-30,GOLD
+C001084,Customer 1084,M,Chandigarh,Chandigarh,North,2022-10-16,STANDARD
+C001085,Customer 1085,O,Hyderabad,Telangana,South,2023-07-24,GOLD
+C001086,Customer 1086,M,Mumbai,Maharashtra,West,2024-03-17,GOLD
+C001087,Customer 1087,F,Kolkata,West Bengal,East,2024-08-13,STANDARD
+C001088,Customer 1088,M,Delhi,Delhi,North,2022-01-23,SILVER
+C001089,Customer 1089,F,Delhi,Delhi,North,2022-10-23,STANDARD
+C001090,Customer 1090,F,Chandigarh,Chandigarh,North,2022-08-29,STANDARD
+C001091,Customer 1091,O,Hyderabad,Telangana,South,2023-03-17,STANDARD
+C001092,Customer 1092,O,Delhi,Delhi,North,2023-03-18,SILVER
+C001093,Customer 1093,M,Delhi,Delhi,North,2023-08-01,SILVER
+C001094,Customer 1094,O,Kolkata,West Bengal,East,2023-12-06,GOLD
+C001095,Customer 1095,F,Hyderabad,Telangana,South,2024-12-01,GOLD
+C001096,Customer 1096,O,Chandigarh,Chandigarh,North,2023-02-09,STANDARD
+C001097,Customer 1097,F,Mumbai,Maharashtra,West,2025-08-16,SILVER
+C001098,Customer 1098,F,Hyderabad,Telangana,South,2022-04-20,GOLD
+C001099,Customer 1099,O,Delhi,Delhi,North,2024-04-22,GOLD
+C001100,Customer 1100,M,Jaipur,Rajasthan,North,2024-11-22,SILVER
+C001101,Customer 1101,M,Chandigarh,Chandigarh,North,2023-08-04,STANDARD
+C001102,Customer 1102,F,Delhi,Delhi,North,2023-08-17,SILVER
+C001103,Customer 1103,O,Mumbai,Maharashtra,West,2025-11-11,SILVER
+C001104,Customer 1104,O,Delhi,Delhi,North,2022-04-16,GOLD
+C001105,Customer 1105,M,Hyderabad,Telangana,South,2022-04-30,SILVER
+C001106,Customer 1106,O,Kolkata,West Bengal,East,2023-09-22,SILVER
+C001107,Customer 1107,M,Hyderabad,Telangana,South,2023-02-22,SILVER
+C001108,Customer 1108,O,Pune,Maharashtra,West,2022-10-31,GOLD
+C001109,Customer 1109,F,Delhi,Delhi,North,2024-11-18,SILVER
+C001110,Customer 1110,F,Pune,Maharashtra,West,2026-01-01,GOLD
+C001111,Customer 1111,M,Pune,Maharashtra,West,2023-10-17,STANDARD
+C001112,Customer 1112,M,Mumbai,Maharashtra,West,2024-10-30,GOLD
+C001113,Customer 1113,O,Hyderabad,Telangana,South,2023-06-02,STANDARD
+C001114,Customer 1114,F,Delhi,Delhi,North,2022-07-02,SILVER
+C001115,Customer 1115,F,Mumbai,Maharashtra,West,2025-08-11,SILVER
+C001116,Customer 1116,F,Bengaluru,Karnataka,South,2024-12-31,STANDARD
+C001117,Customer 1117,F,Kolkata,West Bengal,East,2025-04-08,GOLD
+C001118,Customer 1118,O,Kolkata,West Bengal,East,2025-04-20,SILVER
+C001119,Customer 1119,M,Hyderabad,Telangana,South,2022-05-17,SILVER
+C001120,Customer 1120,F,Jaipur,Rajasthan,North,2025-05-09,STANDARD
+C001121,Customer 1121,F,Delhi,Delhi,North,2024-01-11,GOLD
+C001122,Customer 1122,F,Pune,Maharashtra,West,2022-08-02,GOLD
+C001123,Customer 1123,F,Pune,Maharashtra,West,2024-04-29,GOLD
+C001124,Customer 1124,O,Mumbai,Maharashtra,West,2025-02-24,STANDARD
+C001125,Customer 1125,F,Kolkata,West Bengal,East,2024-12-14,SILVER
+C001126,Customer 1126,F,Bengaluru,Karnataka,South,2022-03-05,SILVER
+C001127,Customer 1127,O,Bengaluru,Karnataka,South,2022-02-22,GOLD
+C001128,Customer 1128,F,Kolkata,West Bengal,East,2025-01-08,GOLD
+C001129,Customer 1129,O,Kolkata,West Bengal,East,2025-06-10,GOLD
+C001130,Customer 1130,M,Pune,Maharashtra,West,2024-05-21,GOLD
+C001131,Customer 1131,M,Delhi,Delhi,North,2025-11-02,SILVER
+C001132,Customer 1132,F,Pune,Maharashtra,West,2025-04-21,STANDARD
+C001133,Customer 1133,M,Jaipur,Rajasthan,North,2023-02-02,STANDARD
+C001134,Customer 1134,O,Delhi,Delhi,North,2022-01-13,STANDARD
+C001135,Customer 1135,O,Hyderabad,Telangana,South,2024-09-23,STANDARD
+C001136,Customer 1136,O,Pune,Maharashtra,West,2025-11-15,SILVER
+C001137,Customer 1137,M,Bengaluru,Karnataka,South,2022-10-03,SILVER
+C001138,Customer 1138,M,Delhi,Delhi,North,2025-11-18,SILVER
+C001139,Customer 1139,F,Delhi,Delhi,North,2023-01-31,GOLD
+C001140,Customer 1140,F,Pune,Maharashtra,West,2022-01-29,SILVER
+C001141,Customer 1141,O,Delhi,Delhi,North,2024-07-13,GOLD
+C001142,Customer 1142,F,Kolkata,West Bengal,East,2024-01-16,STANDARD
+C001143,Customer 1143,O,Hyderabad,Telangana,South,2023-07-10,SILVER
+C001144,Customer 1144,O,Kolkata,West Bengal,East,2025-04-28,GOLD
+C001145,Customer 1145,O,Pune,Maharashtra,West,2023-03-18,GOLD
+C001146,Customer 1146,O,Jaipur,Rajasthan,North,2022-02-21,STANDARD
+C001147,Customer 1147,O,Jaipur,Rajasthan,North,2023-06-06,GOLD
+C001148,Customer 1148,M,Pune,Maharashtra,West,2023-04-03,SILVER
+C001149,Customer 1149,F,Kolkata,West Bengal,East,2024-04-25,SILVER
+C001150,Customer 1150,F,Mumbai,Maharashtra,West,2022-08-11,SILVER
+C001151,Customer 1151,O,Pune,Maharashtra,West,2022-04-30,SILVER
+C001152,Customer 1152,F,Hyderabad,Telangana,South,2025-01-24,GOLD
+C001153,Customer 1153,F,Hyderabad,Telangana,South,2022-11-07,STANDARD
+C001154,Customer 1154,O,Kolkata,West Bengal,East,2024-11-21,STANDARD
+C001155,Customer 1155,F,Mumbai,Maharashtra,West,2022-06-04,GOLD
+C001156,Customer 1156,F,Mumbai,Maharashtra,West,2024-08-10,GOLD
+C001157,Customer 1157,M,Jaipur,Rajasthan,North,2024-09-27,SILVER
+C001158,Customer 1158,M,Mumbai,Maharashtra,West,2024-07-29,SILVER
+C001159,Customer 1159,O,Chandigarh,Chandigarh,North,2023-01-04,SILVER
+C001160,Customer 1160,O,Hyderabad,Telangana,South,2022-10-09,SILVER
+C001161,Customer 1161,F,Mumbai,Maharashtra,West,2024-08-19,STANDARD
+C001162,Customer 1162,M,Bengaluru,Karnataka,South,2023-08-16,STANDARD
+C001163,Customer 1163,O,Hyderabad,Telangana,South,2023-03-31,SILVER
+C001164,Customer 1164,O,Kolkata,West Bengal,East,2023-01-24,SILVER
+C001165,Customer 1165,O,Mumbai,Maharashtra,West,2023-12-21,STANDARD
+C001166,Customer 1166,O,Mumbai,Maharashtra,West,2022-02-07,GOLD
+C001167,Customer 1167,F,Mumbai,Maharashtra,West,2024-11-28,SILVER
+C001168,Customer 1168,M,Mumbai,Maharashtra,West,2024-05-19,SILVER
+C001169,Customer 1169,M,Jaipur,Rajasthan,North,2022-12-22,SILVER
+C001170,Customer 1170,O,Pune,Maharashtra,West,2024-08-14,STANDARD
+C001171,Customer 1171,F,Hyderabad,Telangana,South,2022-03-28,SILVER
+C001172,Customer 1172,M,Jaipur,Rajasthan,North,2023-10-27,SILVER
+C001173,Customer 1173,O,Bengaluru,Karnataka,South,2022-11-21,GOLD
+C001174,Customer 1174,F,Jaipur,Rajasthan,North,2025-11-24,SILVER
+C001175,Customer 1175,M,Chandigarh,Chandigarh,North,2023-09-10,SILVER
+C001176,Customer 1176,F,Pune,Maharashtra,West,2025-03-06,GOLD
+C001177,Customer 1177,O,Bengaluru,Karnataka,South,2024-04-02,STANDARD
+C001178,Customer 1178,O,Jaipur,Rajasthan,North,2023-09-27,SILVER
+C001179,Customer 1179,M,Jaipur,Rajasthan,North,2022-11-09,SILVER
+C001180,Customer 1180,M,Kolkata,West Bengal,East,2025-11-08,SILVER
+C001181,Customer 1181,O,Delhi,Delhi,North,2023-08-02,SILVER
+C001182,Customer 1182,F,Jaipur,Rajasthan,North,2022-03-05,STANDARD
+C001183,Customer 1183,M,Chandigarh,Chandigarh,North,2023-03-02,SILVER
+C001184,Customer 1184,O,Jaipur,Rajasthan,North,2024-06-10,GOLD
+C001185,Customer 1185,F,Pune,Maharashtra,West,2023-03-15,STANDARD
+C001186,Customer 1186,F,Bengaluru,Karnataka,South,2022-01-06,GOLD
+C001187,Customer 1187,M,Bengaluru,Karnataka,South,2025-09-08,GOLD
+C001188,Customer 1188,F,Chandigarh,Chandigarh,North,2024-08-14,GOLD
+C001189,Customer 1189,M,Jaipur,Rajasthan,North,2024-04-23,SILVER
+C001190,Customer 1190,M,Delhi,Delhi,North,2024-10-20,GOLD
+C001191,Customer 1191,F,Kolkata,West Bengal,East,2022-03-17,SILVER
+C001192,Customer 1192,F,Chandigarh,Chandigarh,North,2024-06-11,GOLD
+C001193,Customer 1193,M,Jaipur,Rajasthan,North,2024-02-28,GOLD
+C001194,Customer 1194,M,Delhi,Delhi,North,2025-07-28,STANDARD
+C001195,Customer 1195,M,Chandigarh,Chandigarh,North,2023-06-09,STANDARD
+C001196,Customer 1196,M,Pune,Maharashtra,West,2025-08-02,GOLD
+C001197,Customer 1197,M,Jaipur,Rajasthan,North,2024-04-01,SILVER
+C001198,Customer 1198,O,Kolkata,West Bengal,East,2025-11-09,STANDARD
+C001199,Customer 1199,O,Bengaluru,Karnataka,South,2022-03-04,GOLD
+C001200,Customer 1200,M,Delhi,Delhi,North,2024-02-28,GOLD
+C001201,Customer 1201,O,Bengaluru,Karnataka,South,2023-12-17,SILVER
+C001202,Customer 1202,F,Bengaluru,Karnataka,South,2023-12-08,STANDARD
+C001203,Customer 1203,M,Kolkata,West Bengal,East,2025-05-22,STANDARD
+C001204,Customer 1204,M,Chandigarh,Chandigarh,North,2022-05-14,SILVER
+C001205,Customer 1205,O,Bengaluru,Karnataka,South,2022-01-09,GOLD
+C001206,Customer 1206,F,Hyderabad,Telangana,South,2025-12-26,GOLD
+C001207,Customer 1207,O,Pune,Maharashtra,West,2023-07-26,SILVER
+C001208,Customer 1208,F,Mumbai,Maharashtra,West,2022-10-30,SILVER
+C001209,Customer 1209,F,Bengaluru,Karnataka,South,2025-02-26,STANDARD
+C001210,Customer 1210,F,Kolkata,West Bengal,East,2024-04-16,STANDARD
+C001211,Customer 1211,F,Hyderabad,Telangana,South,2023-12-25,STANDARD
+C001212,Customer 1212,M,Pune,Maharashtra,West,2022-06-10,SILVER
+C001213,Customer 1213,M,Bengaluru,Karnataka,South,2023-02-05,STANDARD
+C001214,Customer 1214,M,Kolkata,West Bengal,East,2022-09-27,STANDARD
+C001215,Customer 1215,F,Hyderabad,Telangana,South,2025-09-05,GOLD
+C001216,Customer 1216,F,Kolkata,West Bengal,East,2023-02-15,STANDARD
+C001217,Customer 1217,O,Bengaluru,Karnataka,South,2024-10-06,GOLD
+C001218,Customer 1218,O,Hyderabad,Telangana,South,2022-09-04,SILVER
+C001219,Customer 1219,M,Bengaluru,Karnataka,South,2024-01-10,GOLD
+C001220,Customer 1220,F,Chandigarh,Chandigarh,North,2025-04-12,SILVER
+C001221,Customer 1221,M,Hyderabad,Telangana,South,2024-12-27,GOLD
+C001222,Customer 1222,M,Hyderabad,Telangana,South,2024-11-07,SILVER
+C001223,Customer 1223,O,Mumbai,Maharashtra,West,2022-07-06,SILVER
+C001224,Customer 1224,O,Mumbai,Maharashtra,West,2025-04-10,SILVER
+C001225,Customer 1225,F,Mumbai,Maharashtra,West,2023-06-27,GOLD
+C001226,Customer 1226,F,Hyderabad,Telangana,South,2022-05-03,GOLD
+C001227,Customer 1227,F,Chandigarh,Chandigarh,North,2023-03-08,GOLD
+C001228,Customer 1228,O,Pune,Maharashtra,West,2023-11-06,GOLD
+C001229,Customer 1229,O,Kolkata,West Bengal,East,2025-06-24,SILVER
+C001230,Customer 1230,O,Bengaluru,Karnataka,South,2022-05-23,STANDARD
+C001231,Customer 1231,M,Kolkata,West Bengal,East,2022-07-14,STANDARD
+C001232,Customer 1232,F,Hyderabad,Telangana,South,2023-04-24,STANDARD
+C001233,Customer 1233,F,Chandigarh,Chandigarh,North,2023-02-05,GOLD
+C001234,Customer 1234,M,Jaipur,Rajasthan,North,2025-05-15,GOLD
+C001235,Customer 1235,F,Chandigarh,Chandigarh,North,2023-11-16,SILVER
+C001236,Customer 1236,F,Delhi,Delhi,North,2024-04-11,STANDARD
+C001237,Customer 1237,M,Delhi,Delhi,North,2024-11-18,STANDARD
+C001238,Customer 1238,M,Delhi,Delhi,North,2025-03-16,SILVER
+C001239,Customer 1239,O,Kolkata,West Bengal,East,2022-09-26,GOLD
+C001240,Customer 1240,F,Kolkata,West Bengal,East,2025-05-18,SILVER
+C001241,Customer 1241,O,Delhi,Delhi,North,2022-03-25,GOLD
+C001242,Customer 1242,F,Kolkata,West Bengal,East,2025-11-17,STANDARD
+C001243,Customer 1243,M,Hyderabad,Telangana,South,2024-11-09,STANDARD
+C001244,Customer 1244,F,Pune,Maharashtra,West,2025-07-03,GOLD
+C001245,Customer 1245,F,Delhi,Delhi,North,2023-01-13,GOLD
+C001246,Customer 1246,M,Hyderabad,Telangana,South,2023-09-17,STANDARD
+C001247,Customer 1247,F,Pune,Maharashtra,West,2024-04-16,GOLD
+C001248,Customer 1248,O,Delhi,Delhi,North,2024-03-08,STANDARD
+C001249,Customer 1249,O,Chandigarh,Chandigarh,North,2022-12-14,SILVER
+C001250,Customer 1250,O,Bengaluru,Karnataka,South,2024-03-21,GOLD
+C001251,Customer 1251,F,Kolkata,West Bengal,East,2022-08-02,STANDARD
+C001252,Customer 1252,M,Bengaluru,Karnataka,South,2023-11-18,SILVER
+C001253,Customer 1253,F,Pune,Maharashtra,West,2022-03-29,STANDARD
+C001254,Customer 1254,O,Jaipur,Rajasthan,North,2024-02-15,STANDARD
+C001255,Customer 1255,M,Bengaluru,Karnataka,South,2023-06-16,SILVER
+C001256,Customer 1256,F,Hyderabad,Telangana,South,2022-06-20,SILVER
+C001257,Customer 1257,F,Delhi,Delhi,North,2024-12-30,STANDARD
+C001258,Customer 1258,O,Delhi,Delhi,North,2025-01-26,GOLD
+C001259,Customer 1259,M,Chandigarh,Chandigarh,North,2024-10-09,STANDARD
+C001260,Customer 1260,O,Mumbai,Maharashtra,West,2025-06-21,SILVER
+C001261,Customer 1261,M,Hyderabad,Telangana,South,2024-11-14,SILVER
+C001262,Customer 1262,M,Hyderabad,Telangana,South,2025-12-08,SILVER
+C001263,Customer 1263,F,Chandigarh,Chandigarh,North,2022-05-19,STANDARD
+C001264,Customer 1264,M,Kolkata,West Bengal,East,2023-11-20,SILVER
+C001265,Customer 1265,M,Delhi,Delhi,North,2023-07-02,GOLD
+C001266,Customer 1266,M,Hyderabad,Telangana,South,2024-10-23,SILVER
+C001267,Customer 1267,M,Hyderabad,Telangana,South,2022-12-06,GOLD
+C001268,Customer 1268,M,Mumbai,Maharashtra,West,2022-09-25,GOLD
+C001269,Customer 1269,F,Chandigarh,Chandigarh,North,2025-06-07,GOLD
+C001270,Customer 1270,F,Pune,Maharashtra,West,2022-01-22,STANDARD
+C001271,Customer 1271,F,Jaipur,Rajasthan,North,2023-05-26,SILVER
+C001272,Customer 1272,M,Chandigarh,Chandigarh,North,2024-03-26,STANDARD
+C001273,Customer 1273,M,Pune,Maharashtra,West,2024-01-19,GOLD
+C001274,Customer 1274,F,Chandigarh,Chandigarh,North,2023-07-28,STANDARD
+C001275,Customer 1275,F,Chandigarh,Chandigarh,North,2024-05-29,STANDARD
+C001276,Customer 1276,F,Delhi,Delhi,North,2022-07-31,GOLD
+C001277,Customer 1277,M,Delhi,Delhi,North,2025-01-15,GOLD
+C001278,Customer 1278,F,Jaipur,Rajasthan,North,2024-11-07,STANDARD
+C001279,Customer 1279,O,Pune,Maharashtra,West,2022-07-22,STANDARD
+C001280,Customer 1280,M,Mumbai,Maharashtra,West,2023-03-07,SILVER
+C001281,Customer 1281,F,Pune,Maharashtra,West,2025-06-10,STANDARD
+C001282,Customer 1282,M,Mumbai,Maharashtra,West,2024-03-22,STANDARD
+C001283,Customer 1283,F,Kolkata,West Bengal,East,2025-05-14,SILVER
+C001284,Customer 1284,F,Pune,Maharashtra,West,2023-02-22,SILVER
+C001285,Customer 1285,F,Delhi,Delhi,North,2024-10-10,SILVER
+C001286,Customer 1286,O,Kolkata,West Bengal,East,2022-11-02,GOLD
+C001287,Customer 1287,O,Bengaluru,Karnataka,South,2023-06-18,SILVER
+C001288,Customer 1288,M,Pune,Maharashtra,West,2025-03-11,STANDARD
+C001289,Customer 1289,O,Jaipur,Rajasthan,North,2025-07-19,STANDARD
+C001290,Customer 1290,M,Kolkata,West Bengal,East,2024-06-24,SILVER
+C001291,Customer 1291,F,Hyderabad,Telangana,South,2023-07-31,SILVER
+C001292,Customer 1292,M,Bengaluru,Karnataka,South,2022-02-26,GOLD
+C001293,Customer 1293,F,Bengaluru,Karnataka,South,2024-10-27,STANDARD
+C001294,Customer 1294,M,Jaipur,Rajasthan,North,2023-07-08,STANDARD
+C001295,Customer 1295,F,Kolkata,West Bengal,East,2023-05-09,SILVER
+C001296,Customer 1296,M,Delhi,Delhi,North,2025-08-14,SILVER
+C001297,Customer 1297,F,Mumbai,Maharashtra,West,2024-01-11,SILVER
+C001298,Customer 1298,F,Bengaluru,Karnataka,South,2022-10-29,STANDARD
+C001299,Customer 1299,M,Mumbai,Maharashtra,West,2022-11-26,GOLD
+C001300,Customer 1300,M,Hyderabad,Telangana,South,2022-04-14,STANDARD
+C001301,Customer 1301,O,Delhi,Delhi,North,2023-02-20,GOLD
+C001302,Customer 1302,O,Pune,Maharashtra,West,2023-07-25,STANDARD
+C001303,Customer 1303,O,Hyderabad,Telangana,South,2024-12-31,SILVER
+C001304,Customer 1304,F,Mumbai,Maharashtra,West,2025-06-09,SILVER
+C001305,Customer 1305,O,Bengaluru,Karnataka,South,2022-11-06,GOLD
+C001306,Customer 1306,O,Bengaluru,Karnataka,South,2023-08-03,GOLD
+C001307,Customer 1307,F,Chandigarh,Chandigarh,North,2024-01-16,STANDARD
+C001308,Customer 1308,M,Mumbai,Maharashtra,West,2022-09-26,GOLD
+C001309,Customer 1309,O,Bengaluru,Karnataka,South,2024-08-06,STANDARD
+C001310,Customer 1310,M,Chandigarh,Chandigarh,North,2022-03-13,SILVER
+C001311,Customer 1311,F,Jaipur,Rajasthan,North,2024-01-02,GOLD
+C001312,Customer 1312,F,Kolkata,West Bengal,East,2025-12-29,SILVER
+C001313,Customer 1313,F,Pune,Maharashtra,West,2022-10-29,GOLD
+C001314,Customer 1314,O,Chandigarh,Chandigarh,North,2024-08-14,STANDARD
+C001315,Customer 1315,M,Hyderabad,Telangana,South,2024-03-07,SILVER
+C001316,Customer 1316,F,Delhi,Delhi,North,2025-07-21,STANDARD
+C001317,Customer 1317,M,Mumbai,Maharashtra,West,2025-03-05,SILVER
+C001318,Customer 1318,F,Mumbai,Maharashtra,West,2022-05-12,SILVER
+C001319,Customer 1319,F,Bengaluru,Karnataka,South,2024-10-09,STANDARD
+C001320,Customer 1320,O,Jaipur,Rajasthan,North,2024-06-22,SILVER
+C001321,Customer 1321,F,Pune,Maharashtra,West,2024-07-09,SILVER
+C001322,Customer 1322,O,Bengaluru,Karnataka,South,2024-04-22,GOLD
+C001323,Customer 1323,M,Hyderabad,Telangana,South,2025-12-21,SILVER
+C001324,Customer 1324,F,Pune,Maharashtra,West,2024-06-27,STANDARD
+C001325,Customer 1325,M,Jaipur,Rajasthan,North,2024-04-01,GOLD
+C001326,Customer 1326,O,Mumbai,Maharashtra,West,2024-11-06,STANDARD
+C001327,Customer 1327,M,Jaipur,Rajasthan,North,2022-01-31,SILVER
+C001328,Customer 1328,M,Chandigarh,Chandigarh,North,2022-09-07,SILVER
+C001329,Customer 1329,M,Bengaluru,Karnataka,South,2022-05-02,SILVER
+C001330,Customer 1330,M,Jaipur,Rajasthan,North,2025-05-27,STANDARD
+C001331,Customer 1331,M,Jaipur,Rajasthan,North,2024-02-28,GOLD
+C001332,Customer 1332,F,Jaipur,Rajasthan,North,2022-09-07,STANDARD
+C001333,Customer 1333,O,Bengaluru,Karnataka,South,2024-01-22,STANDARD
+C001334,Customer 1334,F,Bengaluru,Karnataka,South,2022-03-05,STANDARD
+C001335,Customer 1335,F,Mumbai,Maharashtra,West,2025-12-13,GOLD
+C001336,Customer 1336,M,Kolkata,West Bengal,East,2022-02-10,SILVER
+C001337,Customer 1337,O,Delhi,Delhi,North,2025-08-19,STANDARD
+C001338,Customer 1338,O,Jaipur,Rajasthan,North,2022-05-01,GOLD
+C001339,Customer 1339,O,Chandigarh,Chandigarh,North,2025-06-07,STANDARD
+C001340,Customer 1340,O,Kolkata,West Bengal,East,2025-12-16,SILVER
+C001341,Customer 1341,F,Pune,Maharashtra,West,2025-06-30,STANDARD
+C001342,Customer 1342,F,Jaipur,Rajasthan,North,2026-01-24,STANDARD
+C001343,Customer 1343,F,Delhi,Delhi,North,2024-06-20,STANDARD
+C001344,Customer 1344,M,Jaipur,Rajasthan,North,2023-12-25,SILVER
+C001345,Customer 1345,F,Mumbai,Maharashtra,West,2024-02-22,STANDARD
+C001346,Customer 1346,F,Mumbai,Maharashtra,West,2023-12-28,GOLD
+C001347,Customer 1347,F,Mumbai,Maharashtra,West,2023-06-07,GOLD
+C001348,Customer 1348,M,Kolkata,West Bengal,East,2023-06-13,STANDARD
+C001349,Customer 1349,F,Jaipur,Rajasthan,North,2024-02-18,SILVER
+C001350,Customer 1350,O,Hyderabad,Telangana,South,2022-09-05,GOLD
+C001351,Customer 1351,F,Hyderabad,Telangana,South,2023-04-29,GOLD
+C001352,Customer 1352,F,Hyderabad,Telangana,South,2023-08-21,SILVER
+C001353,Customer 1353,M,Pune,Maharashtra,West,2022-03-02,STANDARD
+C001354,Customer 1354,M,Kolkata,West Bengal,East,2023-10-03,GOLD
+C001355,Customer 1355,O,Pune,Maharashtra,West,2024-04-13,GOLD
+C001356,Customer 1356,O,Kolkata,West Bengal,East,2025-05-07,SILVER
+C001357,Customer 1357,O,Bengaluru,Karnataka,South,2023-11-03,SILVER
+C001358,Customer 1358,M,Bengaluru,Karnataka,South,2024-11-16,GOLD
+C001359,Customer 1359,F,Jaipur,Rajasthan,North,2025-01-03,GOLD
+C001360,Customer 1360,O,Bengaluru,Karnataka,South,2023-06-04,SILVER
+C001361,Customer 1361,F,Jaipur,Rajasthan,North,2022-07-01,STANDARD
+C001362,Customer 1362,M,Chandigarh,Chandigarh,North,2026-02-03,GOLD
+C001363,Customer 1363,O,Kolkata,West Bengal,East,2022-02-04,STANDARD
+C001364,Customer 1364,O,Delhi,Delhi,North,2026-02-02,STANDARD
+C001365,Customer 1365,M,Hyderabad,Telangana,South,2024-06-11,SILVER
+C001366,Customer 1366,F,Hyderabad,Telangana,South,2023-08-28,GOLD
+C001367,Customer 1367,F,Jaipur,Rajasthan,North,2022-12-21,STANDARD
+C001368,Customer 1368,M,Jaipur,Rajasthan,North,2025-10-09,STANDARD
+C001369,Customer 1369,M,Hyderabad,Telangana,South,2025-01-08,SILVER
+C001370,Customer 1370,M,Bengaluru,Karnataka,South,2024-02-29,STANDARD
+C001371,Customer 1371,F,Kolkata,West Bengal,East,2024-06-02,STANDARD
+C001372,Customer 1372,F,Mumbai,Maharashtra,West,2024-06-25,STANDARD
+C001373,Customer 1373,M,Chandigarh,Chandigarh,North,2022-11-18,SILVER
+C001374,Customer 1374,F,Pune,Maharashtra,West,2025-10-22,SILVER
+C001375,Customer 1375,F,Chandigarh,Chandigarh,North,2025-04-11,STANDARD
+C001376,Customer 1376,O,Pune,Maharashtra,West,2025-09-08,SILVER
+C001377,Customer 1377,F,Jaipur,Rajasthan,North,2024-08-24,SILVER
+C001378,Customer 1378,F,Pune,Maharashtra,West,2024-09-18,GOLD
+C001379,Customer 1379,O,Bengaluru,Karnataka,South,2024-06-01,STANDARD
+C001380,Customer 1380,M,Pune,Maharashtra,West,2022-07-27,STANDARD
+C001381,Customer 1381,F,Jaipur,Rajasthan,North,2022-10-11,STANDARD
+C001382,Customer 1382,M,Delhi,Delhi,North,2025-01-24,STANDARD
+C001383,Customer 1383,M,Bengaluru,Karnataka,South,2023-12-02,STANDARD
+C001384,Customer 1384,O,Delhi,Delhi,North,2023-11-22,SILVER
+C001385,Customer 1385,F,Jaipur,Rajasthan,North,2025-12-04,STANDARD
+C001386,Customer 1386,M,Kolkata,West Bengal,East,2023-08-21,SILVER
+C001387,Customer 1387,M,Jaipur,Rajasthan,North,2023-04-05,SILVER
+C001388,Customer 1388,M,Mumbai,Maharashtra,West,2025-11-24,SILVER
+C001389,Customer 1389,O,Hyderabad,Telangana,South,2025-07-15,STANDARD
+C001390,Customer 1390,O,Mumbai,Maharashtra,West,2023-04-14,GOLD
+C001391,Customer 1391,F,Delhi,Delhi,North,2022-08-20,GOLD
+C001392,Customer 1392,O,Bengaluru,Karnataka,South,2025-10-13,STANDARD
+C001393,Customer 1393,F,Hyderabad,Telangana,South,2023-10-22,GOLD
+C001394,Customer 1394,M,Mumbai,Maharashtra,West,2023-09-23,STANDARD
+C001395,Customer 1395,O,Bengaluru,Karnataka,South,2022-08-05,GOLD
+C001396,Customer 1396,F,Pune,Maharashtra,West,2023-12-12,SILVER
+C001397,Customer 1397,F,Chandigarh,Chandigarh,North,2025-02-03,GOLD
+C001398,Customer 1398,F,Bengaluru,Karnataka,South,2023-08-24,GOLD
+C001399,Customer 1399,F,Chandigarh,Chandigarh,North,2023-01-21,SILVER
+C001400,Customer 1400,F,Chandigarh,Chandigarh,North,2022-02-01,STANDARD
+C001401,Customer 1401,M,Chandigarh,Chandigarh,North,2022-10-03,SILVER
+C001402,Customer 1402,O,Chandigarh,Chandigarh,North,2022-03-25,GOLD
+C001403,Customer 1403,M,Bengaluru,Karnataka,South,2025-04-19,SILVER
+C001404,Customer 1404,O,Kolkata,West Bengal,East,2022-12-20,STANDARD
+C001405,Customer 1405,M,Mumbai,Maharashtra,West,2025-11-25,STANDARD
+C001406,Customer 1406,O,Bengaluru,Karnataka,South,2023-08-24,GOLD
+C001407,Customer 1407,O,Pune,Maharashtra,West,2025-08-29,GOLD
+C001408,Customer 1408,F,Kolkata,West Bengal,East,2024-11-08,SILVER
+C001409,Customer 1409,F,Hyderabad,Telangana,South,2025-04-29,GOLD
+C001410,Customer 1410,O,Jaipur,Rajasthan,North,2024-09-24,SILVER
+C001411,Customer 1411,M,Pune,Maharashtra,West,2023-06-26,STANDARD
+C001412,Customer 1412,O,Chandigarh,Chandigarh,North,2022-11-10,GOLD
+C001413,Customer 1413,F,Pune,Maharashtra,West,2026-01-24,GOLD
+C001414,Customer 1414,O,Jaipur,Rajasthan,North,2023-06-14,GOLD
+C001415,Customer 1415,F,Mumbai,Maharashtra,West,2022-12-21,GOLD
+C001416,Customer 1416,M,Delhi,Delhi,North,2023-06-29,GOLD
+C001417,Customer 1417,O,Chandigarh,Chandigarh,North,2024-08-19,STANDARD
+C001418,Customer 1418,O,Jaipur,Rajasthan,North,2023-11-26,SILVER
+C001419,Customer 1419,O,Mumbai,Maharashtra,West,2025-04-22,SILVER
+C001420,Customer 1420,F,Delhi,Delhi,North,2023-11-15,GOLD
+C001421,Customer 1421,O,Delhi,Delhi,North,2024-05-16,STANDARD
+C001422,Customer 1422,M,Jaipur,Rajasthan,North,2024-11-19,GOLD
+C001423,Customer 1423,M,Kolkata,West Bengal,East,2022-04-15,SILVER
+C001424,Customer 1424,M,Hyderabad,Telangana,South,2024-03-17,SILVER
+C001425,Customer 1425,F,Hyderabad,Telangana,South,2022-07-07,STANDARD
+C001426,Customer 1426,F,Delhi,Delhi,North,2024-01-02,SILVER
+C001427,Customer 1427,F,Pune,Maharashtra,West,2025-06-09,GOLD
+C001428,Customer 1428,F,Chandigarh,Chandigarh,North,2025-04-05,GOLD
+C001429,Customer 1429,M,Mumbai,Maharashtra,West,2023-05-17,STANDARD
+C001430,Customer 1430,F,Jaipur,Rajasthan,North,2025-04-24,STANDARD
+C001431,Customer 1431,O,Bengaluru,Karnataka,South,2023-02-19,STANDARD
+C001432,Customer 1432,F,Chandigarh,Chandigarh,North,2024-08-20,STANDARD
+C001433,Customer 1433,M,Chandigarh,Chandigarh,North,2022-05-09,STANDARD
+C001434,Customer 1434,F,Pune,Maharashtra,West,2024-08-28,SILVER
+C001435,Customer 1435,F,Mumbai,Maharashtra,West,2022-05-10,SILVER
+C001436,Customer 1436,M,Hyderabad,Telangana,South,2025-10-17,GOLD
+C001437,Customer 1437,M,Pune,Maharashtra,West,2022-12-21,GOLD
+C001438,Customer 1438,F,Chandigarh,Chandigarh,North,2025-10-17,GOLD
+C001439,Customer 1439,M,Jaipur,Rajasthan,North,2024-08-09,STANDARD
+C001440,Customer 1440,M,Pune,Maharashtra,West,2023-07-29,STANDARD
+C001441,Customer 1441,O,Hyderabad,Telangana,South,2022-01-19,GOLD
+C001442,Customer 1442,M,Bengaluru,Karnataka,South,2023-08-14,GOLD
+C001443,Customer 1443,O,Mumbai,Maharashtra,West,2025-03-01,GOLD
+C001444,Customer 1444,O,Mumbai,Maharashtra,West,2022-12-18,SILVER
+C001445,Customer 1445,O,Bengaluru,Karnataka,South,2023-09-13,GOLD
+C001446,Customer 1446,F,Pune,Maharashtra,West,2025-11-02,GOLD
+C001447,Customer 1447,M,Chandigarh,Chandigarh,North,2022-09-26,SILVER
+C001448,Customer 1448,F,Hyderabad,Telangana,South,2024-08-05,STANDARD
+C001449,Customer 1449,M,Pune,Maharashtra,West,2022-10-12,STANDARD
+C001450,Customer 1450,O,Pune,Maharashtra,West,2023-02-15,SILVER
+C001451,Customer 1451,F,Hyderabad,Telangana,South,2024-08-26,SILVER
+C001452,Customer 1452,M,Pune,Maharashtra,West,2024-09-08,STANDARD
+C001453,Customer 1453,O,Kolkata,West Bengal,East,2024-01-15,SILVER
+C001454,Customer 1454,F,Delhi,Delhi,North,2026-01-05,SILVER
+C001455,Customer 1455,F,Kolkata,West Bengal,East,2025-12-14,STANDARD
+C001456,Customer 1456,M,Hyderabad,Telangana,South,2023-08-01,SILVER
+C001457,Customer 1457,F,Delhi,Delhi,North,2022-07-13,STANDARD
+C001458,Customer 1458,O,Kolkata,West Bengal,East,2022-08-12,GOLD
+C001459,Customer 1459,O,Chandigarh,Chandigarh,North,2025-02-13,GOLD
+C001460,Customer 1460,O,Bengaluru,Karnataka,South,2024-05-31,SILVER
+C001461,Customer 1461,F,Kolkata,West Bengal,East,2024-07-12,STANDARD
+C001462,Customer 1462,O,Bengaluru,Karnataka,South,2023-07-10,STANDARD
+C001463,Customer 1463,M,Kolkata,West Bengal,East,2024-04-14,GOLD
+C001464,Customer 1464,M,Bengaluru,Karnataka,South,2022-09-21,STANDARD
+C001465,Customer 1465,M,Kolkata,West Bengal,East,2025-12-17,STANDARD
+C001466,Customer 1466,F,Jaipur,Rajasthan,North,2025-01-14,GOLD
+C001467,Customer 1467,F,Pune,Maharashtra,West,2025-11-05,GOLD
+C001468,Customer 1468,F,Mumbai,Maharashtra,West,2024-10-13,SILVER
+C001469,Customer 1469,M,Pune,Maharashtra,West,2025-07-29,STANDARD
+C001470,Customer 1470,F,Hyderabad,Telangana,South,2024-12-10,SILVER
+C001471,Customer 1471,M,Chandigarh,Chandigarh,North,2022-09-27,SILVER
+C001472,Customer 1472,F,Jaipur,Rajasthan,North,2024-09-29,SILVER
+C001473,Customer 1473,O,Delhi,Delhi,North,2022-12-08,SILVER
+C001474,Customer 1474,F,Chandigarh,Chandigarh,North,2024-12-14,SILVER
+C001475,Customer 1475,O,Jaipur,Rajasthan,North,2025-12-09,SILVER
+C001476,Customer 1476,F,Bengaluru,Karnataka,South,2024-01-04,SILVER
+C001477,Customer 1477,F,Hyderabad,Telangana,South,2023-02-25,STANDARD
+C001478,Customer 1478,M,Jaipur,Rajasthan,North,2026-01-05,GOLD
+C001479,Customer 1479,M,Bengaluru,Karnataka,South,2026-01-21,GOLD
+C001480,Customer 1480,O,Pune,Maharashtra,West,2024-10-14,GOLD
+C001481,Customer 1481,O,Pune,Maharashtra,West,2024-11-27,GOLD
+C001482,Customer 1482,M,Delhi,Delhi,North,2022-01-09,SILVER
+C001483,Customer 1483,M,Bengaluru,Karnataka,South,2023-05-12,SILVER
+C001484,Customer 1484,O,Pune,Maharashtra,West,2022-01-01,GOLD
+C001485,Customer 1485,M,Pune,Maharashtra,West,2025-04-25,STANDARD
+C001486,Customer 1486,O,Kolkata,West Bengal,East,2024-10-22,GOLD
+C001487,Customer 1487,F,Bengaluru,Karnataka,South,2024-06-23,STANDARD
+C001488,Customer 1488,M,Bengaluru,Karnataka,South,2025-05-12,GOLD
+C001489,Customer 1489,M,Pune,Maharashtra,West,2023-07-18,GOLD
+C001490,Customer 1490,O,Chandigarh,Chandigarh,North,2022-01-31,STANDARD
+C001491,Customer 1491,F,Kolkata,West Bengal,East,2023-03-09,GOLD
+C001492,Customer 1492,M,Mumbai,Maharashtra,West,2025-03-25,STANDARD
+C001493,Customer 1493,O,Delhi,Delhi,North,2023-01-02,STANDARD
+C001494,Customer 1494,M,Bengaluru,Karnataka,South,2022-11-27,SILVER
+C001495,Customer 1495,O,Pune,Maharashtra,West,2022-11-27,GOLD
+C001496,Customer 1496,O,Mumbai,Maharashtra,West,2022-01-24,SILVER
+C001497,Customer 1497,F,Hyderabad,Telangana,South,2025-03-28,STANDARD
+C001498,Customer 1498,O,Kolkata,West Bengal,East,2023-11-20,STANDARD
+C001499,Customer 1499,O,Mumbai,Maharashtra,West,2023-02-17,GOLD
+C001500,Customer 1500,M,Bengaluru,Karnataka,South,2025-06-02,SILVER
+C001501,Customer 1501,O,Pune,Maharashtra,West,2022-08-21,STANDARD
+C001502,Customer 1502,F,Kolkata,West Bengal,East,2022-02-11,STANDARD
+C001503,Customer 1503,O,Pune,Maharashtra,West,2023-02-01,SILVER
+C001504,Customer 1504,M,Bengaluru,Karnataka,South,2022-05-30,STANDARD
+C001505,Customer 1505,M,Kolkata,West Bengal,East,2024-02-19,SILVER
+C001506,Customer 1506,F,Delhi,Delhi,North,2022-10-09,GOLD
+C001507,Customer 1507,M,Bengaluru,Karnataka,South,2023-03-22,SILVER
+C001508,Customer 1508,M,Hyderabad,Telangana,South,2026-01-27,STANDARD
+C001509,Customer 1509,O,Kolkata,West Bengal,East,2023-01-04,STANDARD
+C001510,Customer 1510,O,Hyderabad,Telangana,South,2024-02-04,SILVER
+C001511,Customer 1511,F,Pune,Maharashtra,West,2024-10-28,GOLD
+C001512,Customer 1512,O,Kolkata,West Bengal,East,2025-08-09,SILVER
+C001513,Customer 1513,F,Pune,Maharashtra,West,2022-04-10,STANDARD
+C001514,Customer 1514,O,Kolkata,West Bengal,East,2023-07-10,GOLD
+C001515,Customer 1515,O,Hyderabad,Telangana,South,2024-05-05,STANDARD
+C001516,Customer 1516,F,Hyderabad,Telangana,South,2022-09-18,SILVER
+C001517,Customer 1517,F,Mumbai,Maharashtra,West,2024-03-16,STANDARD
+C001518,Customer 1518,O,Hyderabad,Telangana,South,2024-07-22,STANDARD
+C001519,Customer 1519,O,Mumbai,Maharashtra,West,2022-04-20,STANDARD
+C001520,Customer 1520,F,Pune,Maharashtra,West,2022-05-19,GOLD
+C001521,Customer 1521,M,Kolkata,West Bengal,East,2022-04-03,STANDARD
+C001522,Customer 1522,M,Mumbai,Maharashtra,West,2024-08-18,GOLD
+C001523,Customer 1523,M,Pune,Maharashtra,West,2022-12-01,STANDARD
+C001524,Customer 1524,F,Pune,Maharashtra,West,2025-05-23,STANDARD
+C001525,Customer 1525,F,Mumbai,Maharashtra,West,2023-06-30,STANDARD
+C001526,Customer 1526,M,Bengaluru,Karnataka,South,2025-12-07,GOLD
+C001527,Customer 1527,M,Mumbai,Maharashtra,West,2026-02-01,GOLD
+C001528,Customer 1528,F,Mumbai,Maharashtra,West,2024-12-18,SILVER
+C001529,Customer 1529,O,Pune,Maharashtra,West,2024-05-25,STANDARD
+C001530,Customer 1530,M,Bengaluru,Karnataka,South,2025-02-14,SILVER
+C001531,Customer 1531,F,Jaipur,Rajasthan,North,2023-05-06,SILVER
+C001532,Customer 1532,M,Pune,Maharashtra,West,2025-07-28,SILVER
+C001533,Customer 1533,M,Kolkata,West Bengal,East,2024-09-23,SILVER
+C001534,Customer 1534,F,Mumbai,Maharashtra,West,2023-06-19,SILVER
+C001535,Customer 1535,M,Kolkata,West Bengal,East,2023-09-18,GOLD
+C001536,Customer 1536,F,Chandigarh,Chandigarh,North,2025-04-11,STANDARD
+C001537,Customer 1537,F,Jaipur,Rajasthan,North,2024-11-27,STANDARD
+C001538,Customer 1538,O,Jaipur,Rajasthan,North,2023-12-08,GOLD
+C001539,Customer 1539,F,Chandigarh,Chandigarh,North,2023-03-10,STANDARD
+C001540,Customer 1540,F,Delhi,Delhi,North,2024-08-18,STANDARD
+C001541,Customer 1541,O,Hyderabad,Telangana,South,2023-08-26,STANDARD
+C001542,Customer 1542,M,Jaipur,Rajasthan,North,2023-11-28,SILVER
+C001543,Customer 1543,O,Pune,Maharashtra,West,2025-07-15,STANDARD
+C001544,Customer 1544,F,Jaipur,Rajasthan,North,2025-12-07,STANDARD
+C001545,Customer 1545,O,Chandigarh,Chandigarh,North,2023-03-25,STANDARD
+C001546,Customer 1546,O,Hyderabad,Telangana,South,2024-07-03,SILVER
+C001547,Customer 1547,O,Jaipur,Rajasthan,North,2025-03-12,SILVER
+C001548,Customer 1548,O,Chandigarh,Chandigarh,North,2023-04-08,SILVER
+C001549,Customer 1549,F,Chandigarh,Chandigarh,North,2022-08-04,SILVER
+C001550,Customer 1550,M,Mumbai,Maharashtra,West,2023-06-09,SILVER
+C001551,Customer 1551,O,Kolkata,West Bengal,East,2023-08-19,STANDARD
+C001552,Customer 1552,M,Bengaluru,Karnataka,South,2025-02-26,GOLD
+C001553,Customer 1553,O,Jaipur,Rajasthan,North,2022-05-28,STANDARD
+C001554,Customer 1554,M,Delhi,Delhi,North,2022-11-29,STANDARD
+C001555,Customer 1555,O,Kolkata,West Bengal,East,2025-01-14,STANDARD
+C001556,Customer 1556,F,Bengaluru,Karnataka,South,2022-05-05,SILVER
+C001557,Customer 1557,M,Chandigarh,Chandigarh,North,2023-08-08,SILVER
+C001558,Customer 1558,F,Chandigarh,Chandigarh,North,2023-07-18,STANDARD
+C001559,Customer 1559,M,Bengaluru,Karnataka,South,2025-12-25,SILVER
+C001560,Customer 1560,M,Kolkata,West Bengal,East,2022-09-29,GOLD
+C001561,Customer 1561,O,Mumbai,Maharashtra,West,2022-07-16,GOLD
+C001562,Customer 1562,O,Mumbai,Maharashtra,West,2025-06-25,GOLD
+C001563,Customer 1563,F,Bengaluru,Karnataka,South,2024-08-02,SILVER
+C001564,Customer 1564,M,Mumbai,Maharashtra,West,2025-12-03,GOLD
+C001565,Customer 1565,O,Kolkata,West Bengal,East,2024-01-03,SILVER
+C001566,Customer 1566,M,Hyderabad,Telangana,South,2025-07-23,GOLD
+C001567,Customer 1567,F,Delhi,Delhi,North,2024-09-26,SILVER
+C001568,Customer 1568,F,Kolkata,West Bengal,East,2023-03-19,SILVER
+C001569,Customer 1569,M,Hyderabad,Telangana,South,2025-01-02,SILVER
+C001570,Customer 1570,M,Mumbai,Maharashtra,West,2024-05-08,GOLD
+C001571,Customer 1571,F,Chandigarh,Chandigarh,North,2024-05-21,STANDARD
+C001572,Customer 1572,F,Pune,Maharashtra,West,2024-02-02,STANDARD
+C001573,Customer 1573,M,Delhi,Delhi,North,2025-09-20,STANDARD
+C001574,Customer 1574,O,Chandigarh,Chandigarh,North,2022-10-31,SILVER
+C001575,Customer 1575,O,Delhi,Delhi,North,2022-09-24,SILVER
+C001576,Customer 1576,O,Pune,Maharashtra,West,2023-02-01,STANDARD
+C001577,Customer 1577,M,Kolkata,West Bengal,East,2023-05-21,SILVER
+C001578,Customer 1578,O,Hyderabad,Telangana,South,2025-07-27,GOLD
+C001579,Customer 1579,F,Kolkata,West Bengal,East,2025-12-01,GOLD
+C001580,Customer 1580,O,Chandigarh,Chandigarh,North,2022-11-19,GOLD
+C001581,Customer 1581,O,Bengaluru,Karnataka,South,2024-01-20,SILVER
+C001582,Customer 1582,O,Bengaluru,Karnataka,South,2023-11-26,STANDARD
+C001583,Customer 1583,F,Mumbai,Maharashtra,West,2024-08-11,STANDARD
+C001584,Customer 1584,M,Bengaluru,Karnataka,South,2022-04-01,GOLD
+C001585,Customer 1585,O,Jaipur,Rajasthan,North,2025-12-23,SILVER
+C001586,Customer 1586,M,Mumbai,Maharashtra,West,2025-04-17,STANDARD
+C001587,Customer 1587,O,Jaipur,Rajasthan,North,2023-08-05,SILVER
+C001588,Customer 1588,O,Chandigarh,Chandigarh,North,2022-06-25,GOLD
+C001589,Customer 1589,F,Mumbai,Maharashtra,West,2024-05-09,STANDARD
+C001590,Customer 1590,F,Chandigarh,Chandigarh,North,2022-04-27,STANDARD
+C001591,Customer 1591,O,Jaipur,Rajasthan,North,2025-05-10,SILVER
+C001592,Customer 1592,M,Jaipur,Rajasthan,North,2023-09-06,STANDARD
+C001593,Customer 1593,F,Jaipur,Rajasthan,North,2024-02-02,SILVER
+C001594,Customer 1594,O,Bengaluru,Karnataka,South,2024-02-03,GOLD
+C001595,Customer 1595,O,Jaipur,Rajasthan,North,2022-05-02,SILVER
+C001596,Customer 1596,O,Pune,Maharashtra,West,2022-11-02,SILVER
+C001597,Customer 1597,M,Bengaluru,Karnataka,South,2025-12-10,GOLD
+C001598,Customer 1598,M,Jaipur,Rajasthan,North,2024-04-02,STANDARD
+C001599,Customer 1599,M,Kolkata,West Bengal,East,2023-03-15,SILVER
+C001600,Customer 1600,M,Delhi,Delhi,North,2025-02-07,GOLD
+C001601,Customer 1601,M,Kolkata,West Bengal,East,2025-11-06,STANDARD
+C001602,Customer 1602,O,Kolkata,West Bengal,East,2022-03-13,SILVER
+C001603,Customer 1603,M,Hyderabad,Telangana,South,2023-06-21,STANDARD
+C001604,Customer 1604,F,Jaipur,Rajasthan,North,2025-12-27,STANDARD
+C001605,Customer 1605,F,Hyderabad,Telangana,South,2023-07-10,GOLD
+C001606,Customer 1606,F,Pune,Maharashtra,West,2023-05-28,STANDARD
+C001607,Customer 1607,F,Bengaluru,Karnataka,South,2022-07-25,GOLD
+C001608,Customer 1608,O,Chandigarh,Chandigarh,North,2023-05-28,STANDARD
+C001609,Customer 1609,F,Bengaluru,Karnataka,South,2023-06-02,STANDARD
+C001610,Customer 1610,F,Mumbai,Maharashtra,West,2023-04-10,GOLD
+C001611,Customer 1611,M,Pune,Maharashtra,West,2024-11-22,GOLD
+C001612,Customer 1612,O,Mumbai,Maharashtra,West,2024-06-02,GOLD
+C001613,Customer 1613,F,Chandigarh,Chandigarh,North,2024-01-21,GOLD
+C001614,Customer 1614,F,Pune,Maharashtra,West,2022-12-15,STANDARD
+C001615,Customer 1615,O,Delhi,Delhi,North,2025-12-27,STANDARD
+C001616,Customer 1616,O,Kolkata,West Bengal,East,2022-05-21,SILVER
+C001617,Customer 1617,F,Chandigarh,Chandigarh,North,2025-08-09,SILVER
+C001618,Customer 1618,O,Jaipur,Rajasthan,North,2025-06-12,SILVER
+C001619,Customer 1619,M,Pune,Maharashtra,West,2025-01-02,SILVER
+C001620,Customer 1620,M,Delhi,Delhi,North,2024-10-15,STANDARD
+C001621,Customer 1621,M,Mumbai,Maharashtra,West,2025-02-18,GOLD
+C001622,Customer 1622,M,Kolkata,West Bengal,East,2024-01-18,GOLD
+C001623,Customer 1623,M,Bengaluru,Karnataka,South,2022-04-23,GOLD
+C001624,Customer 1624,M,Mumbai,Maharashtra,West,2025-12-20,STANDARD
+C001625,Customer 1625,F,Hyderabad,Telangana,South,2022-09-28,GOLD
+C001626,Customer 1626,O,Bengaluru,Karnataka,South,2022-01-25,STANDARD
+C001627,Customer 1627,O,Mumbai,Maharashtra,West,2025-12-08,STANDARD
+C001628,Customer 1628,O,Mumbai,Maharashtra,West,2022-11-18,GOLD
+C001629,Customer 1629,F,Hyderabad,Telangana,South,2022-05-28,STANDARD
+C001630,Customer 1630,M,Mumbai,Maharashtra,West,2025-09-20,SILVER
+C001631,Customer 1631,O,Delhi,Delhi,North,2025-03-16,SILVER
+C001632,Customer 1632,M,Bengaluru,Karnataka,South,2024-11-10,STANDARD
+C001633,Customer 1633,F,Chandigarh,Chandigarh,North,2023-08-15,GOLD
+C001634,Customer 1634,O,Pune,Maharashtra,West,2023-04-18,GOLD
+C001635,Customer 1635,M,Bengaluru,Karnataka,South,2024-10-02,SILVER
+C001636,Customer 1636,M,Mumbai,Maharashtra,West,2024-11-29,STANDARD
+C001637,Customer 1637,F,Delhi,Delhi,North,2022-10-11,SILVER
+C001638,Customer 1638,F,Chandigarh,Chandigarh,North,2024-06-18,STANDARD
+C001639,Customer 1639,M,Delhi,Delhi,North,2024-10-09,STANDARD
+C001640,Customer 1640,M,Chandigarh,Chandigarh,North,2025-05-27,GOLD
+C001641,Customer 1641,M,Delhi,Delhi,North,2022-02-13,SILVER
+C001642,Customer 1642,O,Mumbai,Maharashtra,West,2025-10-04,STANDARD
+C001643,Customer 1643,M,Mumbai,Maharashtra,West,2022-11-04,SILVER
+C001644,Customer 1644,M,Pune,Maharashtra,West,2022-03-11,STANDARD
+C001645,Customer 1645,M,Pune,Maharashtra,West,2024-03-28,SILVER
+C001646,Customer 1646,O,Bengaluru,Karnataka,South,2024-09-20,SILVER
+C001647,Customer 1647,O,Mumbai,Maharashtra,West,2023-12-15,STANDARD
+C001648,Customer 1648,F,Mumbai,Maharashtra,West,2024-04-24,GOLD
+C001649,Customer 1649,F,Bengaluru,Karnataka,South,2022-09-14,GOLD
+C001650,Customer 1650,M,Chandigarh,Chandigarh,North,2022-01-11,SILVER
+C001651,Customer 1651,F,Kolkata,West Bengal,East,2025-07-23,GOLD
+C001652,Customer 1652,F,Mumbai,Maharashtra,West,2022-06-11,STANDARD
+C001653,Customer 1653,F,Jaipur,Rajasthan,North,2025-12-30,GOLD
+C001654,Customer 1654,O,Kolkata,West Bengal,East,2022-10-29,STANDARD
+C001655,Customer 1655,M,Chandigarh,Chandigarh,North,2025-04-12,STANDARD
+C001656,Customer 1656,O,Delhi,Delhi,North,2023-04-19,SILVER
+C001657,Customer 1657,F,Delhi,Delhi,North,2022-12-08,SILVER
+C001658,Customer 1658,M,Delhi,Delhi,North,2022-08-19,STANDARD
+C001659,Customer 1659,F,Chandigarh,Chandigarh,North,2024-01-17,GOLD
+C001660,Customer 1660,M,Pune,Maharashtra,West,2025-04-19,SILVER
+C001661,Customer 1661,F,Pune,Maharashtra,West,2022-03-18,SILVER
+C001662,Customer 1662,F,Chandigarh,Chandigarh,North,2024-09-27,SILVER
+C001663,Customer 1663,M,Pune,Maharashtra,West,2025-07-16,GOLD
+C001664,Customer 1664,M,Hyderabad,Telangana,South,2022-07-08,STANDARD
+C001665,Customer 1665,O,Kolkata,West Bengal,East,2023-11-09,GOLD
+C001666,Customer 1666,O,Mumbai,Maharashtra,West,2024-04-27,STANDARD
+C001667,Customer 1667,F,Kolkata,West Bengal,East,2022-02-17,SILVER
+C001668,Customer 1668,F,Chandigarh,Chandigarh,North,2023-01-15,SILVER
+C001669,Customer 1669,O,Chandigarh,Chandigarh,North,2022-02-17,GOLD
+C001670,Customer 1670,O,Pune,Maharashtra,West,2024-12-17,GOLD
+C001671,Customer 1671,O,Bengaluru,Karnataka,South,2022-05-22,GOLD
+C001672,Customer 1672,F,Delhi,Delhi,North,2023-10-31,SILVER
+C001673,Customer 1673,F,Chandigarh,Chandigarh,North,2022-03-16,STANDARD
+C001674,Customer 1674,F,Hyderabad,Telangana,South,2025-04-15,SILVER
+C001675,Customer 1675,F,Pune,Maharashtra,West,2025-04-29,GOLD
+C001676,Customer 1676,M,Pune,Maharashtra,West,2025-06-26,SILVER
+C001677,Customer 1677,F,Mumbai,Maharashtra,West,2022-05-07,STANDARD
+C001678,Customer 1678,O,Mumbai,Maharashtra,West,2023-11-24,GOLD
+C001679,Customer 1679,F,Jaipur,Rajasthan,North,2025-01-12,GOLD
+C001680,Customer 1680,O,Mumbai,Maharashtra,West,2022-12-28,SILVER
+C001681,Customer 1681,F,Hyderabad,Telangana,South,2023-12-15,SILVER
+C001682,Customer 1682,M,Jaipur,Rajasthan,North,2025-03-25,STANDARD
+C001683,Customer 1683,F,Pune,Maharashtra,West,2023-09-17,GOLD
+C001684,Customer 1684,M,Jaipur,Rajasthan,North,2023-04-24,GOLD
+C001685,Customer 1685,F,Pune,Maharashtra,West,2024-12-16,GOLD
+C001686,Customer 1686,F,Mumbai,Maharashtra,West,2025-11-06,STANDARD
+C001687,Customer 1687,F,Jaipur,Rajasthan,North,2023-01-12,STANDARD
+C001688,Customer 1688,M,Hyderabad,Telangana,South,2023-09-24,STANDARD
+C001689,Customer 1689,M,Chandigarh,Chandigarh,North,2025-09-26,GOLD
+C001690,Customer 1690,F,Chandigarh,Chandigarh,North,2023-02-14,STANDARD
+C001691,Customer 1691,F,Chandigarh,Chandigarh,North,2022-08-15,STANDARD
+C001692,Customer 1692,F,Pune,Maharashtra,West,2023-01-02,GOLD
+C001693,Customer 1693,F,Kolkata,West Bengal,East,2022-12-01,GOLD
+C001694,Customer 1694,M,Jaipur,Rajasthan,North,2024-06-14,GOLD
+C001695,Customer 1695,M,Mumbai,Maharashtra,West,2025-12-11,STANDARD
+C001696,Customer 1696,F,Hyderabad,Telangana,South,2022-01-31,GOLD
+C001697,Customer 1697,M,Hyderabad,Telangana,South,2023-09-20,STANDARD
+C001698,Customer 1698,M,Delhi,Delhi,North,2023-12-12,STANDARD
+C001699,Customer 1699,F,Chandigarh,Chandigarh,North,2025-10-21,GOLD
+C001700,Customer 1700,F,Hyderabad,Telangana,South,2022-04-23,SILVER
+C001701,Customer 1701,F,Delhi,Delhi,North,2022-07-09,SILVER
+C001702,Customer 1702,O,Hyderabad,Telangana,South,2022-10-01,STANDARD
+C001703,Customer 1703,M,Jaipur,Rajasthan,North,2022-09-23,GOLD
+C001704,Customer 1704,F,Chandigarh,Chandigarh,North,2025-02-28,SILVER
+C001705,Customer 1705,M,Kolkata,West Bengal,East,2025-12-26,STANDARD
+C001706,Customer 1706,M,Delhi,Delhi,North,2024-11-06,STANDARD
+C001707,Customer 1707,M,Bengaluru,Karnataka,South,2024-02-05,GOLD
+C001708,Customer 1708,O,Jaipur,Rajasthan,North,2023-11-09,SILVER
+C001709,Customer 1709,F,Bengaluru,Karnataka,South,2022-07-28,STANDARD
+C001710,Customer 1710,O,Bengaluru,Karnataka,South,2024-12-23,GOLD
+C001711,Customer 1711,F,Jaipur,Rajasthan,North,2023-07-12,SILVER
+C001712,Customer 1712,M,Jaipur,Rajasthan,North,2025-11-10,SILVER
+C001713,Customer 1713,O,Chandigarh,Chandigarh,North,2024-10-27,STANDARD
+C001714,Customer 1714,O,Jaipur,Rajasthan,North,2024-01-27,STANDARD
+C001715,Customer 1715,F,Kolkata,West Bengal,East,2025-09-06,SILVER
+C001716,Customer 1716,O,Bengaluru,Karnataka,South,2024-12-03,SILVER
+C001717,Customer 1717,O,Delhi,Delhi,North,2022-11-29,SILVER
+C001718,Customer 1718,O,Kolkata,West Bengal,East,2022-09-21,SILVER
+C001719,Customer 1719,O,Bengaluru,Karnataka,South,2023-05-20,GOLD
+C001720,Customer 1720,M,Jaipur,Rajasthan,North,2023-04-01,SILVER
+C001721,Customer 1721,O,Delhi,Delhi,North,2024-05-05,GOLD
+C001722,Customer 1722,F,Chandigarh,Chandigarh,North,2024-07-28,GOLD
+C001723,Customer 1723,O,Chandigarh,Chandigarh,North,2023-10-31,STANDARD
+C001724,Customer 1724,M,Bengaluru,Karnataka,South,2022-08-03,GOLD
+C001725,Customer 1725,O,Delhi,Delhi,North,2022-07-24,STANDARD
+C001726,Customer 1726,F,Delhi,Delhi,North,2026-01-14,GOLD
+C001727,Customer 1727,O,Kolkata,West Bengal,East,2022-08-27,GOLD
+C001728,Customer 1728,M,Pune,Maharashtra,West,2025-07-05,SILVER
+C001729,Customer 1729,M,Chandigarh,Chandigarh,North,2024-06-08,GOLD
+C001730,Customer 1730,O,Hyderabad,Telangana,South,2025-11-08,STANDARD
+C001731,Customer 1731,F,Delhi,Delhi,North,2023-09-27,STANDARD
+C001732,Customer 1732,O,Hyderabad,Telangana,South,2023-10-21,STANDARD
+C001733,Customer 1733,M,Delhi,Delhi,North,2025-07-15,STANDARD
+C001734,Customer 1734,M,Jaipur,Rajasthan,North,2024-05-16,GOLD
+C001735,Customer 1735,M,Pune,Maharashtra,West,2022-12-14,SILVER
+C001736,Customer 1736,F,Pune,Maharashtra,West,2024-08-29,GOLD
+C001737,Customer 1737,M,Bengaluru,Karnataka,South,2022-03-16,SILVER
+C001738,Customer 1738,F,Jaipur,Rajasthan,North,2023-08-23,GOLD
+C001739,Customer 1739,O,Mumbai,Maharashtra,West,2025-05-11,SILVER
+C001740,Customer 1740,F,Jaipur,Rajasthan,North,2022-07-13,STANDARD
+C001741,Customer 1741,F,Hyderabad,Telangana,South,2025-08-03,STANDARD
+C001742,Customer 1742,O,Bengaluru,Karnataka,South,2022-03-05,SILVER
+C001743,Customer 1743,F,Pune,Maharashtra,West,2024-11-28,STANDARD
+C001744,Customer 1744,F,Delhi,Delhi,North,2025-10-11,SILVER
+C001745,Customer 1745,M,Mumbai,Maharashtra,West,2022-07-20,STANDARD
+C001746,Customer 1746,M,Bengaluru,Karnataka,South,2025-08-23,GOLD
+C001747,Customer 1747,O,Chandigarh,Chandigarh,North,2025-10-03,STANDARD
+C001748,Customer 1748,F,Delhi,Delhi,North,2024-02-06,SILVER
+C001749,Customer 1749,F,Mumbai,Maharashtra,West,2024-01-09,GOLD
+C001750,Customer 1750,M,Pune,Maharashtra,West,2024-10-24,SILVER
+C001751,Customer 1751,M,Bengaluru,Karnataka,South,2023-05-13,GOLD
+C001752,Customer 1752,O,Bengaluru,Karnataka,South,2022-02-10,GOLD
+C001753,Customer 1753,F,Hyderabad,Telangana,South,2022-11-18,SILVER
+C001754,Customer 1754,M,Kolkata,West Bengal,East,2022-12-13,SILVER
+C001755,Customer 1755,O,Delhi,Delhi,North,2022-10-18,SILVER
+C001756,Customer 1756,O,Kolkata,West Bengal,East,2023-06-10,STANDARD
+C001757,Customer 1757,O,Delhi,Delhi,North,2025-02-14,SILVER
+C001758,Customer 1758,F,Kolkata,West Bengal,East,2024-03-20,SILVER
+C001759,Customer 1759,F,Jaipur,Rajasthan,North,2023-01-25,GOLD
+C001760,Customer 1760,F,Bengaluru,Karnataka,South,2022-06-19,STANDARD
+C001761,Customer 1761,F,Bengaluru,Karnataka,South,2025-09-27,GOLD
+C001762,Customer 1762,O,Kolkata,West Bengal,East,2023-10-18,STANDARD
+C001763,Customer 1763,M,Bengaluru,Karnataka,South,2022-10-25,STANDARD
+C001764,Customer 1764,O,Kolkata,West Bengal,East,2024-09-24,STANDARD
+C001765,Customer 1765,M,Kolkata,West Bengal,East,2025-12-14,SILVER
+C001766,Customer 1766,O,Hyderabad,Telangana,South,2024-01-09,SILVER
+C001767,Customer 1767,O,Kolkata,West Bengal,East,2025-08-31,GOLD
+C001768,Customer 1768,F,Chandigarh,Chandigarh,North,2024-04-17,GOLD
+C001769,Customer 1769,F,Pune,Maharashtra,West,2025-07-10,STANDARD
+C001770,Customer 1770,F,Delhi,Delhi,North,2023-06-07,SILVER
+C001771,Customer 1771,O,Chandigarh,Chandigarh,North,2023-07-23,SILVER
+C001772,Customer 1772,O,Jaipur,Rajasthan,North,2024-11-05,GOLD
+C001773,Customer 1773,O,Hyderabad,Telangana,South,2025-06-29,GOLD
+C001774,Customer 1774,F,Mumbai,Maharashtra,West,2024-08-17,STANDARD
+C001775,Customer 1775,F,Delhi,Delhi,North,2025-12-06,SILVER
+C001776,Customer 1776,F,Jaipur,Rajasthan,North,2022-11-25,STANDARD
+C001777,Customer 1777,F,Pune,Maharashtra,West,2026-02-07,GOLD
+C001778,Customer 1778,O,Kolkata,West Bengal,East,2025-12-09,GOLD
+C001779,Customer 1779,F,Delhi,Delhi,North,2025-08-13,GOLD
+C001780,Customer 1780,M,Delhi,Delhi,North,2026-01-16,SILVER
+C001781,Customer 1781,M,Jaipur,Rajasthan,North,2025-01-03,GOLD
+C001782,Customer 1782,O,Jaipur,Rajasthan,North,2024-09-26,STANDARD
+C001783,Customer 1783,F,Jaipur,Rajasthan,North,2025-01-15,SILVER
+C001784,Customer 1784,O,Kolkata,West Bengal,East,2023-02-01,SILVER
+C001785,Customer 1785,M,Pune,Maharashtra,West,2023-08-01,SILVER
+C001786,Customer 1786,O,Delhi,Delhi,North,2025-05-10,STANDARD
+C001787,Customer 1787,F,Delhi,Delhi,North,2023-01-02,STANDARD
+C001788,Customer 1788,F,Mumbai,Maharashtra,West,2025-03-28,STANDARD
+C001789,Customer 1789,O,Delhi,Delhi,North,2025-09-08,STANDARD
+C001790,Customer 1790,O,Mumbai,Maharashtra,West,2023-05-24,GOLD
+C001791,Customer 1791,F,Chandigarh,Chandigarh,North,2024-08-03,STANDARD
+C001792,Customer 1792,M,Kolkata,West Bengal,East,2024-07-13,STANDARD
+C001793,Customer 1793,M,Kolkata,West Bengal,East,2023-08-14,STANDARD
+C001794,Customer 1794,M,Jaipur,Rajasthan,North,2023-01-01,GOLD
+C001795,Customer 1795,M,Chandigarh,Chandigarh,North,2025-03-28,SILVER
+C001796,Customer 1796,M,Chandigarh,Chandigarh,North,2022-11-10,GOLD
+C001797,Customer 1797,O,Jaipur,Rajasthan,North,2025-01-30,STANDARD
+C001798,Customer 1798,O,Bengaluru,Karnataka,South,2022-01-26,STANDARD
+C001799,Customer 1799,M,Pune,Maharashtra,West,2022-02-02,SILVER
+C001800,Customer 1800,O,Delhi,Delhi,North,2024-08-28,STANDARD
+C001801,Customer 1801,F,Bengaluru,Karnataka,South,2023-07-12,SILVER
+C001802,Customer 1802,M,Hyderabad,Telangana,South,2024-12-02,GOLD
+C001803,Customer 1803,F,Mumbai,Maharashtra,West,2023-09-29,STANDARD
+C001804,Customer 1804,M,Chandigarh,Chandigarh,North,2023-08-01,GOLD
+C001805,Customer 1805,M,Mumbai,Maharashtra,West,2023-04-18,SILVER
+C001806,Customer 1806,O,Delhi,Delhi,North,2023-02-02,SILVER
+C001807,Customer 1807,O,Hyderabad,Telangana,South,2023-12-24,GOLD
+C001808,Customer 1808,M,Chandigarh,Chandigarh,North,2022-11-09,STANDARD
+C001809,Customer 1809,M,Delhi,Delhi,North,2023-11-22,GOLD
+C001810,Customer 1810,O,Jaipur,Rajasthan,North,2023-05-26,SILVER
+C001811,Customer 1811,O,Delhi,Delhi,North,2022-07-03,STANDARD
+C001812,Customer 1812,F,Bengaluru,Karnataka,South,2023-07-15,GOLD
+C001813,Customer 1813,M,Hyderabad,Telangana,South,2024-06-19,GOLD
+C001814,Customer 1814,F,Hyderabad,Telangana,South,2023-08-06,STANDARD
+C001815,Customer 1815,F,Delhi,Delhi,North,2022-04-30,STANDARD
+C001816,Customer 1816,O,Hyderabad,Telangana,South,2025-01-04,SILVER
+C001817,Customer 1817,M,Kolkata,West Bengal,East,2024-08-18,STANDARD
+C001818,Customer 1818,O,Chandigarh,Chandigarh,North,2025-12-15,STANDARD
+C001819,Customer 1819,O,Jaipur,Rajasthan,North,2023-08-14,SILVER
+C001820,Customer 1820,F,Delhi,Delhi,North,2024-12-26,SILVER
+C001821,Customer 1821,M,Jaipur,Rajasthan,North,2022-07-03,SILVER
+C001822,Customer 1822,M,Hyderabad,Telangana,South,2022-03-31,SILVER
+C001823,Customer 1823,M,Chandigarh,Chandigarh,North,2022-09-14,GOLD
+C001824,Customer 1824,M,Mumbai,Maharashtra,West,2025-05-07,GOLD
+C001825,Customer 1825,M,Kolkata,West Bengal,East,2025-10-24,STANDARD
+C001826,Customer 1826,M,Hyderabad,Telangana,South,2024-12-06,GOLD
+C001827,Customer 1827,M,Bengaluru,Karnataka,South,2023-11-21,GOLD
+C001828,Customer 1828,F,Pune,Maharashtra,West,2023-06-06,GOLD
+C001829,Customer 1829,M,Delhi,Delhi,North,2024-10-14,SILVER
+C001830,Customer 1830,O,Jaipur,Rajasthan,North,2022-06-18,SILVER
+C001831,Customer 1831,M,Delhi,Delhi,North,2025-12-26,GOLD
+C001832,Customer 1832,F,Hyderabad,Telangana,South,2025-08-21,STANDARD
+C001833,Customer 1833,F,Chandigarh,Chandigarh,North,2025-02-20,GOLD
+C001834,Customer 1834,O,Hyderabad,Telangana,South,2022-09-10,GOLD
+C001835,Customer 1835,F,Delhi,Delhi,North,2022-04-09,GOLD
+C001836,Customer 1836,O,Pune,Maharashtra,West,2022-12-13,GOLD
+C001837,Customer 1837,O,Kolkata,West Bengal,East,2023-07-23,SILVER
+C001838,Customer 1838,O,Chandigarh,Chandigarh,North,2023-06-17,GOLD
+C001839,Customer 1839,M,Hyderabad,Telangana,South,2025-11-28,SILVER
+C001840,Customer 1840,M,Bengaluru,Karnataka,South,2022-10-03,STANDARD
+C001841,Customer 1841,O,Kolkata,West Bengal,East,2025-10-25,STANDARD
+C001842,Customer 1842,M,Mumbai,Maharashtra,West,2022-11-30,SILVER
+C001843,Customer 1843,O,Pune,Maharashtra,West,2024-05-05,GOLD
+C001844,Customer 1844,F,Hyderabad,Telangana,South,2024-10-31,SILVER
+C001845,Customer 1845,F,Pune,Maharashtra,West,2024-04-08,GOLD
+C001846,Customer 1846,M,Mumbai,Maharashtra,West,2022-12-29,GOLD
+C001847,Customer 1847,O,Mumbai,Maharashtra,West,2025-12-28,STANDARD
+C001848,Customer 1848,O,Jaipur,Rajasthan,North,2024-06-13,STANDARD
+C001849,Customer 1849,M,Bengaluru,Karnataka,South,2024-09-28,SILVER
+C001850,Customer 1850,F,Hyderabad,Telangana,South,2023-08-24,SILVER
+C001851,Customer 1851,O,Kolkata,West Bengal,East,2022-03-07,STANDARD
+C001852,Customer 1852,O,Hyderabad,Telangana,South,2024-01-04,GOLD
+C001853,Customer 1853,M,Hyderabad,Telangana,South,2023-01-23,SILVER
+C001854,Customer 1854,M,Hyderabad,Telangana,South,2022-12-16,SILVER
+C001855,Customer 1855,M,Hyderabad,Telangana,South,2025-02-08,SILVER
+C001856,Customer 1856,M,Kolkata,West Bengal,East,2025-04-12,STANDARD
+C001857,Customer 1857,F,Jaipur,Rajasthan,North,2023-11-18,STANDARD
+C001858,Customer 1858,M,Pune,Maharashtra,West,2022-01-10,GOLD
+C001859,Customer 1859,F,Hyderabad,Telangana,South,2025-04-02,GOLD
+C001860,Customer 1860,F,Delhi,Delhi,North,2025-01-10,STANDARD
+C001861,Customer 1861,M,Kolkata,West Bengal,East,2024-06-08,STANDARD
+C001862,Customer 1862,M,Jaipur,Rajasthan,North,2024-01-29,GOLD
+C001863,Customer 1863,F,Kolkata,West Bengal,East,2022-03-24,GOLD
+C001864,Customer 1864,O,Delhi,Delhi,North,2024-04-11,STANDARD
+C001865,Customer 1865,F,Pune,Maharashtra,West,2025-01-02,GOLD
+C001866,Customer 1866,F,Mumbai,Maharashtra,West,2026-02-04,GOLD
+C001867,Customer 1867,F,Hyderabad,Telangana,South,2026-02-06,SILVER
+C001868,Customer 1868,M,Jaipur,Rajasthan,North,2025-12-02,GOLD
+C001869,Customer 1869,O,Kolkata,West Bengal,East,2022-01-31,GOLD
+C001870,Customer 1870,F,Kolkata,West Bengal,East,2025-03-28,GOLD
+C001871,Customer 1871,M,Kolkata,West Bengal,East,2023-01-27,STANDARD
+C001872,Customer 1872,M,Hyderabad,Telangana,South,2026-01-05,STANDARD
+C001873,Customer 1873,F,Bengaluru,Karnataka,South,2022-10-31,STANDARD
+C001874,Customer 1874,M,Jaipur,Rajasthan,North,2024-03-19,STANDARD
+C001875,Customer 1875,O,Pune,Maharashtra,West,2023-06-17,SILVER
+C001876,Customer 1876,M,Delhi,Delhi,North,2024-01-16,GOLD
+C001877,Customer 1877,M,Chandigarh,Chandigarh,North,2025-11-22,GOLD
+C001878,Customer 1878,M,Delhi,Delhi,North,2024-04-05,SILVER
+C001879,Customer 1879,O,Mumbai,Maharashtra,West,2024-11-23,SILVER
+C001880,Customer 1880,M,Delhi,Delhi,North,2023-09-02,SILVER
+C001881,Customer 1881,F,Bengaluru,Karnataka,South,2024-11-19,GOLD
+C001882,Customer 1882,O,Mumbai,Maharashtra,West,2024-11-12,STANDARD
+C001883,Customer 1883,F,Kolkata,West Bengal,East,2022-11-15,STANDARD
+C001884,Customer 1884,M,Mumbai,Maharashtra,West,2022-11-23,SILVER
+C001885,Customer 1885,F,Delhi,Delhi,North,2025-07-24,SILVER
+C001886,Customer 1886,M,Hyderabad,Telangana,South,2023-04-02,GOLD
+C001887,Customer 1887,F,Hyderabad,Telangana,South,2023-03-29,SILVER
+C001888,Customer 1888,F,Hyderabad,Telangana,South,2026-01-30,SILVER
+C001889,Customer 1889,O,Pune,Maharashtra,West,2024-09-20,SILVER
+C001890,Customer 1890,F,Bengaluru,Karnataka,South,2024-04-03,GOLD
+C001891,Customer 1891,M,Bengaluru,Karnataka,South,2023-01-20,GOLD
+C001892,Customer 1892,O,Mumbai,Maharashtra,West,2025-05-29,GOLD
+C001893,Customer 1893,F,Jaipur,Rajasthan,North,2024-04-18,SILVER
+C001894,Customer 1894,F,Pune,Maharashtra,West,2023-02-24,GOLD
+C001895,Customer 1895,O,Delhi,Delhi,North,2024-08-25,STANDARD
+C001896,Customer 1896,M,Delhi,Delhi,North,2023-11-12,STANDARD
+C001897,Customer 1897,M,Chandigarh,Chandigarh,North,2022-06-23,STANDARD
+C001898,Customer 1898,O,Hyderabad,Telangana,South,2023-01-25,STANDARD
+C001899,Customer 1899,F,Delhi,Delhi,North,2025-10-08,STANDARD
+C001900,Customer 1900,O,Chandigarh,Chandigarh,North,2024-12-12,GOLD
+C001901,Customer 1901,O,Jaipur,Rajasthan,North,2022-07-05,STANDARD
+C001902,Customer 1902,O,Mumbai,Maharashtra,West,2025-08-27,SILVER
+C001903,Customer 1903,M,Delhi,Delhi,North,2024-04-26,SILVER
+C001904,Customer 1904,O,Kolkata,West Bengal,East,2022-04-08,GOLD
+C001905,Customer 1905,M,Pune,Maharashtra,West,2024-08-22,SILVER
+C001906,Customer 1906,F,Chandigarh,Chandigarh,North,2025-04-08,SILVER
+C001907,Customer 1907,O,Hyderabad,Telangana,South,2025-11-19,SILVER
+C001908,Customer 1908,F,Chandigarh,Chandigarh,North,2024-03-12,STANDARD
+C001909,Customer 1909,O,Mumbai,Maharashtra,West,2025-03-01,SILVER
+C001910,Customer 1910,O,Kolkata,West Bengal,East,2024-02-06,SILVER
+C001911,Customer 1911,F,Kolkata,West Bengal,East,2023-01-27,GOLD
+C001912,Customer 1912,M,Delhi,Delhi,North,2024-11-24,SILVER
+C001913,Customer 1913,O,Jaipur,Rajasthan,North,2023-07-21,STANDARD
+C001914,Customer 1914,O,Jaipur,Rajasthan,North,2023-07-18,STANDARD
+C001915,Customer 1915,F,Delhi,Delhi,North,2025-03-20,STANDARD
+C001916,Customer 1916,O,Kolkata,West Bengal,East,2023-06-23,STANDARD
+C001917,Customer 1917,F,Bengaluru,Karnataka,South,2025-07-01,STANDARD
+C001918,Customer 1918,F,Jaipur,Rajasthan,North,2025-07-04,SILVER
+C001919,Customer 1919,O,Delhi,Delhi,North,2022-11-06,SILVER
+C001920,Customer 1920,M,Hyderabad,Telangana,South,2024-08-19,SILVER
+C001921,Customer 1921,O,Bengaluru,Karnataka,South,2024-02-11,GOLD
+C001922,Customer 1922,M,Mumbai,Maharashtra,West,2023-04-15,STANDARD
+C001923,Customer 1923,F,Delhi,Delhi,North,2023-05-17,STANDARD
+C001924,Customer 1924,O,Mumbai,Maharashtra,West,2025-09-28,GOLD
+C001925,Customer 1925,M,Delhi,Delhi,North,2022-10-02,STANDARD
+C001926,Customer 1926,M,Jaipur,Rajasthan,North,2024-12-04,STANDARD
+C001927,Customer 1927,F,Delhi,Delhi,North,2024-07-20,SILVER
+C001928,Customer 1928,F,Hyderabad,Telangana,South,2022-08-21,STANDARD
+C001929,Customer 1929,F,Bengaluru,Karnataka,South,2023-12-30,SILVER
+C001930,Customer 1930,F,Pune,Maharashtra,West,2025-01-26,SILVER
+C001931,Customer 1931,F,Kolkata,West Bengal,East,2025-10-06,GOLD
+C001932,Customer 1932,F,Delhi,Delhi,North,2026-01-08,STANDARD
+C001933,Customer 1933,O,Hyderabad,Telangana,South,2025-08-11,SILVER
+C001934,Customer 1934,O,Chandigarh,Chandigarh,North,2025-09-18,SILVER
+C001935,Customer 1935,F,Pune,Maharashtra,West,2024-10-16,SILVER
+C001936,Customer 1936,F,Bengaluru,Karnataka,South,2023-08-07,SILVER
+C001937,Customer 1937,M,Kolkata,West Bengal,East,2023-09-06,GOLD
+C001938,Customer 1938,M,Hyderabad,Telangana,South,2024-12-10,GOLD
+C001939,Customer 1939,F,Hyderabad,Telangana,South,2022-12-30,STANDARD
+C001940,Customer 1940,F,Mumbai,Maharashtra,West,2022-08-05,SILVER
+C001941,Customer 1941,O,Jaipur,Rajasthan,North,2025-06-10,SILVER
+C001942,Customer 1942,F,Pune,Maharashtra,West,2024-05-14,STANDARD
+C001943,Customer 1943,F,Bengaluru,Karnataka,South,2025-04-07,STANDARD
+C001944,Customer 1944,M,Pune,Maharashtra,West,2023-03-27,STANDARD
+C001945,Customer 1945,F,Hyderabad,Telangana,South,2023-06-26,GOLD
+C001946,Customer 1946,O,Pune,Maharashtra,West,2022-05-26,GOLD
+C001947,Customer 1947,O,Pune,Maharashtra,West,2024-06-28,STANDARD
+C001948,Customer 1948,O,Hyderabad,Telangana,South,2024-05-22,SILVER
+C001949,Customer 1949,F,Delhi,Delhi,North,2025-06-26,GOLD
+C001950,Customer 1950,F,Hyderabad,Telangana,South,2024-11-08,SILVER
+C001951,Customer 1951,M,Bengaluru,Karnataka,South,2025-08-20,GOLD
+C001952,Customer 1952,F,Delhi,Delhi,North,2024-05-17,GOLD
+C001953,Customer 1953,F,Mumbai,Maharashtra,West,2023-04-05,GOLD
+C001954,Customer 1954,F,Kolkata,West Bengal,East,2024-06-17,GOLD
+C001955,Customer 1955,M,Kolkata,West Bengal,East,2025-03-09,SILVER
+C001956,Customer 1956,M,Pune,Maharashtra,West,2023-11-18,GOLD
+C001957,Customer 1957,F,Bengaluru,Karnataka,South,2023-07-27,SILVER
+C001958,Customer 1958,F,Chandigarh,Chandigarh,North,2025-10-15,STANDARD
+C001959,Customer 1959,F,Chandigarh,Chandigarh,North,2023-08-28,SILVER
+C001960,Customer 1960,O,Jaipur,Rajasthan,North,2023-10-25,SILVER
+C001961,Customer 1961,O,Jaipur,Rajasthan,North,2022-11-25,GOLD
+C001962,Customer 1962,M,Chandigarh,Chandigarh,North,2024-01-12,STANDARD
+C001963,Customer 1963,O,Hyderabad,Telangana,South,2025-05-10,GOLD
+C001964,Customer 1964,M,Jaipur,Rajasthan,North,2022-08-20,GOLD
+C001965,Customer 1965,M,Pune,Maharashtra,West,2022-09-12,GOLD
+C001966,Customer 1966,M,Hyderabad,Telangana,South,2022-05-10,GOLD
+C001967,Customer 1967,M,Hyderabad,Telangana,South,2024-08-16,GOLD
+C001968,Customer 1968,O,Jaipur,Rajasthan,North,2025-05-27,STANDARD
+C001969,Customer 1969,F,Mumbai,Maharashtra,West,2024-07-06,STANDARD
+C001970,Customer 1970,F,Jaipur,Rajasthan,North,2025-02-09,SILVER
+C001971,Customer 1971,M,Jaipur,Rajasthan,North,2023-02-03,GOLD
+C001972,Customer 1972,F,Pune,Maharashtra,West,2026-02-02,GOLD
+C001973,Customer 1973,M,Mumbai,Maharashtra,West,2024-07-30,GOLD
+C001974,Customer 1974,M,Chandigarh,Chandigarh,North,2023-06-30,STANDARD
+C001975,Customer 1975,F,Jaipur,Rajasthan,North,2025-04-17,GOLD
+C001976,Customer 1976,O,Mumbai,Maharashtra,West,2023-09-06,STANDARD
+C001977,Customer 1977,M,Chandigarh,Chandigarh,North,2024-11-13,GOLD
+C001978,Customer 1978,M,Kolkata,West Bengal,East,2025-03-07,STANDARD
+C001979,Customer 1979,M,Pune,Maharashtra,West,2022-12-12,GOLD
+C001980,Customer 1980,O,Jaipur,Rajasthan,North,2025-09-03,SILVER
+C001981,Customer 1981,O,Pune,Maharashtra,West,2025-03-20,GOLD
+C001982,Customer 1982,O,Hyderabad,Telangana,South,2024-09-15,STANDARD
+C001983,Customer 1983,M,Hyderabad,Telangana,South,2025-11-14,SILVER
+C001984,Customer 1984,F,Jaipur,Rajasthan,North,2022-07-19,SILVER
+C001985,Customer 1985,F,Kolkata,West Bengal,East,2023-09-17,STANDARD
+C001986,Customer 1986,M,Delhi,Delhi,North,2024-11-04,SILVER
+C001987,Customer 1987,F,Kolkata,West Bengal,East,2022-04-04,GOLD
+C001988,Customer 1988,M,Hyderabad,Telangana,South,2023-10-01,GOLD
+C001989,Customer 1989,O,Jaipur,Rajasthan,North,2024-06-11,GOLD
+C001990,Customer 1990,F,Chandigarh,Chandigarh,North,2023-10-08,STANDARD
+C001991,Customer 1991,M,Delhi,Delhi,North,2024-04-14,STANDARD
+C001992,Customer 1992,F,Pune,Maharashtra,West,2023-07-17,STANDARD
+C001993,Customer 1993,O,Pune,Maharashtra,West,2022-05-19,SILVER
+C001994,Customer 1994,M,Jaipur,Rajasthan,North,2022-09-29,STANDARD
+C001995,Customer 1995,O,Jaipur,Rajasthan,North,2023-06-11,SILVER
+C001996,Customer 1996,M,Chandigarh,Chandigarh,North,2024-02-21,STANDARD
+C001997,Customer 1997,M,Hyderabad,Telangana,South,2024-11-04,STANDARD
+C001998,Customer 1998,M,Mumbai,Maharashtra,West,2025-05-20,STANDARD
+C001999,Customer 1999,F,Jaipur,Rajasthan,North,2024-03-25,SILVER
+C002000,Customer 2000,M,Hyderabad,Telangana,South,2022-07-26,SILVER
+C000011,Customer 11,F,Jaipur,Rajasthan,North,2024-10-09,STANDARD
+C999999,Bad Customer,M,,Delhi,North,2025-02-30,STANDARD

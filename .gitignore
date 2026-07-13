@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+logs/*.log
+data/processed/*
+data/rejected/*
+!data/processed/.gitkeep
+!data/rejected/.gitkeep
+.DS_Store

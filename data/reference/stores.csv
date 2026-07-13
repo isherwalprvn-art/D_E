@@ -1,0 +1,31 @@
+store_id,store_name,city,state,region,opened_date,status
+ST001,RetailMart Hyderabad 1,Hyderabad,Telangana,South,2022-07-09,ACTIVE
+ST002,RetailMart Mumbai 2,Mumbai,Maharashtra,West,2023-09-03,ACTIVE
+ST003,RetailMart Bengaluru 3,Bengaluru,Karnataka,South,2022-11-02,ACTIVE
+ST004,RetailMart Kolkata 4,Kolkata,West Bengal,East,2021-07-09,ACTIVE
+ST005,RetailMart Delhi 5,Delhi,Delhi,North,2024-10-25,ACTIVE
+ST006,RetailMart Pune 6,Pune,Maharashtra,West,2024-06-02,ACTIVE
+ST007,RetailMart Hyderabad 7,Hyderabad,Telangana,South,2023-12-23,ACTIVE
+ST008,RetailMart Hyderabad 8,Hyderabad,Telangana,South,2024-01-14,ACTIVE
+ST009,RetailMart Jaipur 9,Jaipur,Rajasthan,North,2022-12-18,ACTIVE
+ST010,RetailMart Hyderabad 10,Hyderabad,Telangana,South,2024-02-25,ACTIVE
+ST011,RetailMart Kolkata 11,Kolkata,West Bengal,East,2021-06-30,ACTIVE
+ST012,RetailMart Delhi 12,Delhi,Delhi,North,2022-12-10,ACTIVE
+ST013,RetailMart Hyderabad 13,Hyderabad,Telangana,South,2021-09-15,ACTIVE
+ST014,RetailMart Bengaluru 14,Bengaluru,Karnataka,South,2021-12-22,ACTIVE
+ST015,RetailMart Pune 15,Pune,Maharashtra,West,2023-09-27,ACTIVE
+ST016,RetailMart Jaipur 16,Jaipur,Rajasthan,North,2022-01-31,ACTIVE
+ST017,RetailMart Chandigarh 17,Chandigarh,Chandigarh,North,2024-05-09,ACTIVE
+ST018,RetailMart Pune 18,Pune,Maharashtra,West,2024-09-16,ACTIVE
+ST019,RetailMart Bengaluru 19,Bengaluru,Karnataka,South,2024-01-07,ACTIVE
+ST020,RetailMart Jaipur 20,Jaipur,Rajasthan,North,2024-09-21,ACTIVE
+ST021,RetailMart Delhi 21,Delhi,Delhi,North,2024-05-05,ACTIVE
+ST022,RetailMart Kolkata 22,Kolkata,West Bengal,East,2022-02-15,ACTIVE
+ST023,RetailMart Jaipur 23,Jaipur,Rajasthan,North,2024-11-25,ACTIVE
+ST024,RetailMart Mumbai 24,Mumbai,Maharashtra,West,2023-10-29,ACTIVE
+ST025,RetailMart Pune 25,Pune,Maharashtra,West,2021-10-08,ACTIVE
+ST026,RetailMart Delhi 26,Delhi,Delhi,North,2023-06-23,ACTIVE
+ST027,RetailMart Jaipur 27,Jaipur,Rajasthan,North,2024-07-23,ACTIVE
+ST028,RetailMart Bengaluru 28,Bengaluru,Karnataka,South,2021-01-31,ACTIVE
+ST029,RetailMart Jaipur 29,Jaipur,Rajasthan,North,2024-03-05,ACTIVE
+ST030,RetailMart Pune 30,Pune,Maharashtra,West,2021-08-04,ACTIVE

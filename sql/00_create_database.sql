@@ -1,0 +1,2 @@
+-- Run from psql with suitable permissions
+-- CREATE DATABASE retailmart;
